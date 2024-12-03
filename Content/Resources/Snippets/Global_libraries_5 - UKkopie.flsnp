@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <MadCap:changeData>
+            <MadCap:RemoveChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="1" MadCap:timestamp="2024-05-16T14:21:25.6215203+01:00" />
+            <MadCap:AddChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="2" MadCap:timestamp="2024-05-16T14:21:25.6215203+01:00" />
+        </MadCap:changeData>
+    </head>
+    <body>
+        <p>You use <MadCap:variable name="Primary.Powerproject Vision" /> to enable the use of global libraries, to specify which library object types are included in the global library file, and to specify which users are able to manage the global library file. Refer to the <a href="https://help.elecosoft.com/powerproject_vision/english/" MadCap:changes="2"><MadCap:variable name="Primary.Powerproject Vision" MadCap:changes="2" /> Help</a><MadCap:variable name="Primary.Powerproject Vision" MadCap:changes="1" /><MadCap:change MadCap:changes="1"> Help</MadCap:change> for information on how to do this.</p>
+    </body>
+</html>

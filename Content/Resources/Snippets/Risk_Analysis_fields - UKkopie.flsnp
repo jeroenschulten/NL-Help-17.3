@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <MadCap:changeData>
+            <MadCap:RemoveChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="1" MadCap:timestamp="2024-05-16T13:59:38.4359565+01:00" />
+            <MadCap:AddChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="2" MadCap:timestamp="2024-05-16T13:59:38.4359565+01:00" />
+        </MadCap:changeData>
+        <link href="../Stylesheets/Table_Stylesheet.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p xmlns="http://www.w3.org/1999/xhtml">For more information on the use of these fields, refer to <a href="https://help.elecosoft.com/risk_analysis/english/help/" MadCap:changes="2" xmlns=""><MadCap:variable name="Primary.Risk Analysis Name" MadCap:changes="2" /> Help</a><MadCap:variable name="Primary.Risk Analysis Name" MadCap:changes="1" /><MadCap:change MadCap:changes="1"> Help</MadCap:change>.</p>
+        <table class="TableStyle-Table_Stylesheet" style="mc-table-style: url('../Stylesheets/Table_Stylesheet.css');margin-left: 0;margin-right: auto;caption-side: top;" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml">
+            <col class="TableStyle-Table_Stylesheet-Column-Column1" />
+            <col class="TableStyle-Table_Stylesheet-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-Table_Stylesheet-Head-Header1">
+                    <th class="TableStyle-Table_Stylesheet-HeadE-Column1-Header1">Field</th>
+                    <th class="TableStyle-Table_Stylesheet-HeadD-Column1-Header1">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">Minimum duration</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
+                        <p class="ParagraphsInTables">Enter the shortest time that you estimate the task could take to complete.</p>
+                        <p class="ParagraphsInTables">&#160;</p>
+                        <p class="ParagraphsInTables">
+                            <MadCap:snippetText src="Risk_Analysis_min_max_durations.flsnp" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">Maximum duration</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
+                        <p class="ParagraphsInTables">Enter the longest time that you estimate the task could take to complete.</p>
+                        <p class="ParagraphsInTables">&#160;</p>
+                        <p class="ParagraphsInTables">
+                            <MadCap:snippetText src="Risk_Analysis_min_max_durations.flsnp" />
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">Task probability</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
+                        <p class="ParagraphsInTables">Enter a value between 0 and 100 to specify, in percentage terms, the likelihood of the task taking place.</p>
+                        <p class="ParagraphsInTables">&#160;</p>
+                        <p class="ParagraphsInTables">
+                            <MadCap:snippetText src="Risk_event.flsnp" />
+                        </p>
+                        <p class="ParagraphsInTables">&#160;</p>
+                        <p class="ParagraphsInTables">When you carry out risk analysis, you can specify whether to take into account the probabilities that have been entered against individual tasks. If you choose to do this, the probability of risk event tasks is taken into account in each iteration of risk analysis, meaning that the risk event tasks will be included in some iterations but not in others. If you specify that a task has an 80% probability of taking place, the task will appear in - and therefore affect the duration of - roughly 80% of risk analysis iterations.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyB-Column1-Body1" style="font-weight: bold;">Task distribution</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyA-Column1-Body1">
+                        <p class="ParagraphsInTables">If you want to apply a specific distribution to the way in which the duration of the task is selected during risk analysis, select the type of distribution in this field.</p>
+                        <p class="ParagraphsInTables">&#160;</p>
+                        <p class="ParagraphsInTables">If you apply a specific distribution to a task, this distribution is always used for that particular task when the duration of tasks is determined during risk analysis, regardless of the distribution that you select on the <b xmlns="http://www.w3.org/1999/xhtml">Risk Settings</b> tab of the <b xmlns="http://www.w3.org/1999/xhtml"><MadCap:variable name="Primary.Risk Analysis Name" /></b> dialog.</p>
+                        <p class="ParagraphsInTables">&#160;</p>
+                        <p class="ParagraphsInTables">To specify that the distribution that you select on the <b xmlns="http://www.w3.org/1999/xhtml">Risk Settings</b> tab of the <b xmlns="http://www.w3.org/1999/xhtml"><MadCap:variable name="Primary.Risk Analysis Name" /></b> dialog should be used for a task during risk analysis, select Default in this field.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

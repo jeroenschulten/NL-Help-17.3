@@ -5,7 +5,7 @@
     Comment=""
     EvaluatedDefinition="Asta Powerproject 4D">Asta Powerproject 4D</Variable>
   <Variable
-    Name="Powerproject Vision Name"
+    Name="Powerproject Vision"
     Comment=""
     EvaluatedDefinition="Asta Vision">Asta Vision</Variable>
   <Variable
@@ -71,4 +71,8 @@
     Name="SaaS Name"
     Comment=""
     EvaluatedDefinition="Asta Powerproject SaaS">Asta Powerproject SaaS</Variable>
+  <Variable
+    Name="Asta Vision Live Name"
+    Comment=""
+    EvaluatedDefinition="Asta Vision Live">Asta Vision Live</Variable>
 </CatapultVariableSet>

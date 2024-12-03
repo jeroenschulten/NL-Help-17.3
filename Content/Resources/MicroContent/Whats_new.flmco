@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="whats-new">
+        <MicroContentPhrase>whats new</MicroContentPhrase>
+        <MicroContentPhrase>what's new</MicroContentPhrase>
+        <MicroContentPhrase>update</MicroContentPhrase>
+        <MicroContentPhrase>updates</MicroContentPhrase>
+        <MicroContentPhrase>new features</MicroContentPhrase>
+        <MicroContentPhrase>new release</MicroContentPhrase>
+        <MicroContentPhrase>new version</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Whats_new/Whats_new.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

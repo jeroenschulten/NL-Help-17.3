@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>If you select this option, any expanded tasks in the original <MadCap:variable name="Primary.Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> project will be changed into summary tasks, so that the original project matches the exported data. After the export, save the project to retain this and any other changes that are made to it, or use undo - or close the project without saving - to reject the change.</body>
+</html>

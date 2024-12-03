@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>If you select this option, any finish milestones will be converted into start milestones in the exported data, but the milestones in the original <MadCap:variable name="Primary.Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> project will not be changed. There will therefore be a difference between any finish milestones in the original project and the corresponding milestones in the exported data.</body>
+</html>

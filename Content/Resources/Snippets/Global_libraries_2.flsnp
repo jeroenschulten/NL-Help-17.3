@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <MadCap:dropDown>
@@ -6,7 +6,7 @@
                 <MadCap:dropDownHotspot>Soorten bibliotheekobjecten die beschikbaar zijn in het  globale bibliotheek bestand</MadCap:dropDownHotspot>
             </MadCap:dropDownHead>
             <MadCap:dropDownBody>
-                <p>Als u <MadCap:variable name="Primary.Powerproject Vision Name" /> configureert om globale bibliotheken te gebruiken, kunt u - in <MadCap:variable name="Primary.Powerproject Vision Name" /> - specificeren welke soorten bibliotheekobjecten in het globale bibliotheekbestand moeten worden opgenomen. De volgende soorten objecten kunnen worden opgenomen:</p>
+                <p>Als u <MadCap:variable name="Primary.Powerproject Vision" /> configureert om globale bibliotheken te gebruiken, kunt u - in <MadCap:variable name="Primary.Powerproject Vision" /> - specificeren welke soorten bibliotheekobjecten in het globale bibliotheekbestand moeten worden opgenomen. De volgende soorten objecten kunnen worden opgenomen:</p>
                 <ul>
                     <li>Kalenders</li>
                     <li>Codebibliotheken</li>

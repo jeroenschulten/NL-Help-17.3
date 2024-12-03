@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="False">
+    <MicroContent id="hoe kan jij/ik een uitgeboekt project inboeken">
+        <MicroContentPhrase>hoe kan jij/ik een project inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik gegevens inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een gegevensproject inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik gegevens in een masterproject inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een bestemmingsmasterproject inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik data terugboeken in een project</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een bestemmingsproject in de master inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een bestemmingsproject terugboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een bestemmingsproject terugboeken in de master</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik inboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik in gaan boeken</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Booking_out/Booking_in_data.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe kan jij/ik gegevens uitboeken">
+         <MicroContentPhrase>hoe kan jij/ik gegevens uitboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een project uitboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een bestemmingsproject uitboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een masterproject uitboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik gegevens uitboeken van bestemmingsproject</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik gegevens uitboeken van masterproject</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik bestemmingsproject gegevens uitboeken van masterproject</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik uitboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik uit gaan boeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik gegevens uit project uitboeken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik gegevens uit masterproject uitboeken</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Booking_out/Booking_out_data.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe kan jij/ik het uitboeken ongedaan maken">
+        <MicroContentPhrase>hoe kan jij/ik het uitboeken ongedaan maken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een uitgeboekt project annuleren</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik uitgeboekte projecten annuleren</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een uitgeboekt bestemmingsmasterproject annuleren</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een uitgeboekt bestemmingsproject annuleren</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik geforceerd een uitboeking ongedaan maken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een uitgeboekt bestemmingsproject geforceerd ongedaan maken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik uitgeboekte gegevens geforceerd ongedaan maken</MicroContentPhrase>
+        <MicroContentPhrase>Hoe kan jij/ik een uitgeboekt project geforceerd ongedaan maken</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Booking_out/Cancelling_a_book_out.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

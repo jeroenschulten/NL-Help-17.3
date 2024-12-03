@@ -524,6 +524,10 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/HTML_Topics/Conceptual/Vision/Vision_recording_comments.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Powerproject_Easyplan.Powerproject_only"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/HTML_Topics/Conceptual/Vision/Vision_collaboration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       conditions="Powerproject_Easyplan.Powerproject_only" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
@@ -797,6 +801,10 @@
       Link="/Content/HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Editing_the_properties_of_a_project.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
+      Link="/Content/HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Start_finish_date.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Powerproject_Easyplan.Easyplan_only" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Editing_the_properties_of_a_project.htm"
       conditions="Powerproject_Easyplan.Powerproject_only">
       <TocEntry
@@ -806,12 +814,16 @@
         conditions="Powerproject_Easyplan.Powerproject_only" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
+        Link="/Content/HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Start_finish_date.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        conditions="Powerproject_Easyplan.Powerproject_only" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
         Link="/Content/HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Specify_delivery_date.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
         conditions="Powerproject_Easyplan.Powerproject_only" />
       <TocEntry
         Title="[%=System.LinkedTitle%]"
         Link="/Content/HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/PCDC.htm"
-        conditions="Powerproject_Easyplan.Powerproject_only" />
+        conditions="Powerproject_Easyplan.Powerproject_only"></TocEntry>
     </TocEntry>
     <TocEntry
       Title="[%=System.LinkedTitle%]"

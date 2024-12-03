@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <MadCap:changeData>
+            <MadCap:AttributesChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="1" MadCap:timestamp="2024-05-02T11:13:12.8952877+01:00" MadCap:attribute="href" MadCap:value="https://help.elecosoft.com/powerproject_bim/english/17.2/Content/HTML Topics/Building_a_project_schedule/Ways_of_associating_tasks_and_IFC_elements.htm" />
+            <MadCap:AttributesChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="2" MadCap:timestamp="2024-05-02T11:13:34.4304308+01:00" MadCap:attribute="href" MadCap:value="https://help.elecosoft.com/powerproject_bim/english/17.2/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm" />
+            <MadCap:AttributesChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="3" MadCap:timestamp="2024-05-02T11:13:56.8657176+01:00" MadCap:attribute="href" MadCap:value="https://help.elecosoft.com/powerproject_bim/english/17.2/Content/HTML Topics/Group_models/Site_objects_movement.htm" />
+            <MadCap:AttributesChange MadCap:userName="MarkDeegan" MadCap:initials="MA" MadCap:id="4" MadCap:timestamp="2024-05-02T11:14:48.8143205+01:00" MadCap:attribute="href" MadCap:value="https://help.elecosoft.com/powerproject_bim/english/16.0.02/Content/HTML Topics/Start_topic.htm" />
+        </MadCap:changeData>
+        <link href="../Stylesheets/Table_Stylesheet.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <p xmlns="http://www.w3.org/1999/xhtml">These fields appear only if you use <MadCap:variable name="Primary.APP BIM Name" />. For more information on the use of these fields, refer to the <a href="https://help.elecosoft.com/powerproject_bim/english/help/Content/HTML Topics/Start_topic.htm" xmlns="" MadCap:changes="4"><MadCap:variable name="Primary.APP BIM Name" /> Help</a>.</p>
+        <table class="TableStyle-Table_Stylesheet" style="mc-table-style: url('../Stylesheets/Table_Stylesheet.css');margin-left: 0;margin-right: auto;caption-side: top;" cellspacing="0" xmlns="http://www.w3.org/1999/xhtml">
+            <col class="TableStyle-Table_Stylesheet-Column-Column1" />
+            <col class="TableStyle-Table_Stylesheet-Column-Column1" />
+            <thead>
+                <tr class="TableStyle-Table_Stylesheet-Head-Header1">
+                    <th class="TableStyle-Table_Stylesheet-HeadE-Column1-Header1">Field</th>
+                    <th class="TableStyle-Table_Stylesheet-HeadD-Column1-Header1">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">IFC product</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
+                        <p class="ParagraphsInTables" xmlns="">The IFC product search or IFC product selection to which the task belongs.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/english/help/Content/HTML Topics/Building_a_project_schedule/Ways_of_associating_tasks_and_IFC_elements.htm" MadCap:changes="1">Ways of associating products in a 3D model with tasks</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">IFC task type</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
+                        <p class="ParagraphsInTables" xmlns="">If you are using IFC task type to control the way in which 3D objects in a 3D model are "built" during timeline simulations, specify the appropriate IFC task type to assign to the task. If a task relates to the construction of an object, you could apply the 'Construction' IFC task type to the task; if it relates to the demolition of an object, you could apply the 'Demolition' IFC task type to it.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns="">The following IFC task types are available:</p>
+                        <ul type="disc">
+                            <li xmlns="http://www.w3.org/1999/xhtml">Attendance. Apply this to tasks that represent the presence of a resource, or a period of waiting for one or more events to occur.</li>
+                            <li>Construction. Apply this to tasks that represent erecting, fabricating or building something.</li>
+                            <li>Demolition.	Apply this to tasks that represent pulling down, destroying or breaking down something.</li>
+                            <li>Dismantle.	Apply this to tasks that represent taking apart something carefully, so that it can be recycled or reused.</li>
+                            <li>Disposal.	Apply this to tasks that represent getting rid of something.</li>
+                            <li>Installation.	Apply this to tasks that represent installing something; this is similar to the 'Construction' task type, but is more commonly used for engineering tasks.</li>
+                            <li>Logistic.		Apply this to tasks that represent transporting or delivering something.</li>
+                            <li>Maintenance.	Apply this to tasks that represent maintaining or servicing something to keep it in good condition, or in good working order.</li>
+                            <li>Move.		Apply this to tasks that represent moving something from one place to another.</li>
+                            <li>Operation.	Apply this to tasks that represent the working or running of something.</li>
+                            <li>Removal. 	Apply this to tasks that represent taking something away from its place of use.</li>
+                            <li>Renovation.	Apply this to tasks that represent restoring something to an 'as new' state.</li>
+                        </ul>
+                        <p class="ParagraphsInTables" xmlns="">To use IFC task type to control the appearance of 3D objects during timeline simulations, you edit the properties of each 3D model or IFC group model and specify appearance settings for each IFC task type. For example, you can specify that objects are constructed or destructed during the duration of a task, or that objects appear at the start of a task, or disappear at the end of a task. You then assign the appropriate IFC task type to each task. The IFC task type appearance settings are applied to all of the 3D objects in a 3D model that are associated with tasks to which the IFC task type has been applied.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns="">If both an IFC task type and an IFC simulation profile are specified for a task, the IFC simulation profile settings are used during timeline durations rather than the IFC task type settings.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/english/help/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm" MadCap:changes="2">Configuring the way in which timeline simulations run</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">IFC simulation profile</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
+                        <p class="ParagraphsInTables" xmlns="">If you are using IFC simulation profiles to control the way in which 3D objects in a 3D model are "built" during timeline simulations, specify the appropriate IFC simulation profile to assign to the task.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns="">To use IFC simulation profiles to control the appearance of 3D objects during timeline simulations, you create any number of IFC simulation profiles in Library Explorer and specify appearance settings for each one. You then assign the appropriate IFC simulation profile to each task. The IFC simulation profile appearance settings are applied to all of the 3D objects in a 3D model that are associated with tasks to which the IFC simulation profile has been applied.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns="">If both an IFC task type and an IFC simulation profile are specified for a task, the IFC simulation profile settings are used during timeline durations rather than the IFC task type settings.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/english/help/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm" MadCap:changes="2">Configuring the way in which timeline simulations run</a>
+                        </p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-Table_Stylesheet-Body-Body1">
+                    <td class="TableStyle-Table_Stylesheet-BodyB-Column1-Body1" style="font-weight: bold;">Site Object Actions</td>
+                    <td class="TableStyle-Table_Stylesheet-BodyA-Column1-Body1">
+                        <p class="ParagraphsInTables" xmlns="">This grid displays a list of all site object actions that have been associated with the task. For some tasks, there will be a single action; if you have associated more than one action with a task, all of the actions are displayed in the grid. If a task has not been associated with a site object action as part of animating a site object, no actions appear in the grid.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns="">If you have associated only one action with a task, you do not need to specify the percentage of the task's duration that the action takes up, unless you want the action to take up less than 100% of the duration; the action takes up 100% of the task's duration by default, so it will start at the start of the task, and finish at the end of the task.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns="">If you have associated a single action with a task and you want the action to take up less than 100% of the task's duration, or if you have associated more than one action with the same task, you need to edit the task's properties and specify start and finish percentages for the actions that are associated with it. For example:</p>
+                        <ul type="disc" xmlns="">
+                            <li>To specify that an action takes up the first 10% of a task's duration, enter '0' in the <b>Start %</b> column and '10' in the <b>Stop %</b> column.</li>
+                            <li>To specify that an action takes up the last 20% of a task's duration, enter '81' in the <b>Start %</b> column and '100' in the <b>Stop %</b> column.</li>
+                            <li>To specify that the action takes up the middle 40% of the task's duration, enter '31' in the <b>Start %</b> column and '70' in the <b>Stop %</b> column.</li>
+                        </ul>
+                        <p class="ParagraphsInTables" xmlns="">If you have associated more than one action with the same task, you must ensure that the percentages you enter for each action follow on from each other and do not conflict or overlap.</p>
+                        <p class="ParagraphsInTables" xmlns="">&#160;</p>
+                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/english/help/Content/HTML Topics/Group_models/Site_objects_movement.htm" MadCap:changes="3">Animating site objects to reflect their movement on site</a>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

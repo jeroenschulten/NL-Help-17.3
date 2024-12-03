@@ -2735,7 +2735,7 @@ Een netwerk van taken dat u als sjabloon kunt gebruiken voor het creëren van me
     IgnoreCase="false"
     TermClass="PPalleen">
     <Terms>
-      <Term>Asta Powerproject Vision</Term>
+      <Term>Asta Vision</Term>
     </Terms>
     <Definition
       Link="">Een web-based applicatie dat uw Asta Powerproject projecten op één enkele lokatie in de Cloud  opslaat.</Definition>
@@ -3074,5 +3074,26 @@ De voortgang op deze manier berekenen is het meest handig als u geen resources a
     </Terms>
     <Definition
       Link="">Een op tijd gebaseerde weergave van een project die u kunt gebruiken om een visuele samenvatting van een project weer te geven. U kunt kiezen welke taken en mijlpalen u aan de tijdlijn wilt toevoegen. Het is gebruikelijk om taken op hoog niveau toe te voegen (misschien samenvattingstaken op het hoogste niveau) en belangrijke mijlpalen. Met tijdlijnen kunt u op een eenvoudige manier de voortgang van een project op hoog niveau rapporteren aan belanghebbenden die geen gedetailleerde informatie over een project willen (of hoeven) te zien.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Powerproject_Easyplan.Term12"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>Links</Term>
+    </Terms>
+    <Definition
+      Link="">Meestal moeten taken in een project in een bepaalde volgorde plaatsvinden. Je kunt bijvoorbeeld geen muur bouwen voordat je de fundering hebt gegraven. Je geeft de volgorde aan waarin taken plaatsvinden door links te tekenen van de ene taak naar de andere. De taak aan het begin van de link is de voorganger en de taak aan het einde van de link is de opvolger.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Powerproject_Easyplan.Term8"
+    Stem=""
+    IgnoreCase="false"
+    conditions="Powerproject_Easyplan.Powerproject_only">
+    <Terms>
+      <Term>Asta Vision Live</Term>
+    </Terms>
+    <Definition
+      Link="">Een versie van Asta Vision die gebruikers in staat stelt om in real time samen te werken aan programma's.</Definition>
   </GlossaryEntry>
 </CatapultGlossary>

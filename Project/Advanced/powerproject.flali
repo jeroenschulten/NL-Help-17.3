@@ -535,4 +535,8 @@
     <Map Name="IDH_EXTEND_TRIAL_QUERY_WAIT_FOR_LICENCE_KEY_EXPIRED_TRIAL_PAGE" Link="/Content/HTML_Topics/Dialogs/D_Trialextensionwizard.htm" Skin="/Project/Skins/Powerproject.flskn" />
     <Map Name="IDH_EXTEND_TRIAL_QUERY_WAIT_FOR_LICENCE_KEY_PAGE" Link="/Content/HTML_Topics/Dialogs/D_Trialextensionwizard.htm" Skin="/Project/Skins/Powerproject.flskn" />
     <Map Name="IDH_EXTEND_TRIAL_REQUEST_CODE_PAGE" Link="/Content/HTML_Topics/Dialogs/D_Trialextensionwizard.htm" Skin="/Project/Skins/Powerproject.flskn" />
+    <Map Name="IDH_XML_EXPORT_WIZARD_PROJECT_MILESTONES" Link="/Content/HTML_Topics/Dialogs/D_XMLexportwizardmilestones.htm" Skin="/Project/Skins/Powerproject.flskn" />
+    <Map Name="IDH_XML_EXPORT_WIZARD_PROJECT_NOTIFICATIONS" Link="/Content/HTML_Topics/Dialogs/D_XMLexportwizardnotifications.htm" Skin="/Project/Skins/Powerproject.flskn" />
+    <Map Name="IDH_XML_EXPORT_WIZARD_PROJECT_EXPANDED_TASKS" Link="/Content/HTML_Topics/Dialogs/D_XMLexportwizardexpanded.htm" Skin="/Project/Skins/Powerproject.flskn" />
+    <Map Name="IDH_XML_EXPORT_WIZARD_PROJECT_INTERRUPTIBLE_TASKS" Link="/Content/HTML_Topics/Dialogs/D_XMLexportwizardinterruptible.htm" Skin="/Project/Skins/Powerproject.flskn" />
 </CatapultAliasFile>

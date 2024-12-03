@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="delay">
+        <MicroContentPhrase>delay</MicroContentPhrase>
+        <MicroContentPhrase>why is my project delayed</MicroContentPhrase>
+        <MicroContentPhrase>understanding delay</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I understand delay</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I reasons for delay</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I reschedule results</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I understand reschedule results</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I interpret reschedule results</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Rescheduling_projects/Reschedule_results/Reschedule_results.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

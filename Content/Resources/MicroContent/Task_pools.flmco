@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="how-do-you-can-i-task-pool">
+        <MicroContentPhrase>how do you can I task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I task pool introduction</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I task pool what is</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I task pool what are</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I fragnet introduction</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I fragnet what is</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I fragnet what are</MicroContentPhrase>
+        <MicroContentPhrase>task pool</MicroContentPhrase>
+        <MicroContentPhrase>fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_intro.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-create-new-task-pool">
+        <MicroContentPhrase>how do you can I create new task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I make new task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I make new fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create new fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_creating.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-edit-task-pool">
+        <MicroContentPhrase>how do you can I edit task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I edit fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add task to task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add task to fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete task from task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete tasks from fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove task from task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove task from fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-align-tasks-in-task-pool">
+        <MicroContentPhrase>how do you can I align tasks in task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I align tasks in fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-rename-task-pool">
+        <MicroContentPhrase>how do you can I rename task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change name task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rename fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change name fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent3" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-delete-task-pool">
+        <MicroContentPhrase>how do you can I delete task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent4" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-access-rights-task-pool">
+        <MicroContentPhrase>how do you can I access rights task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I access rights fragnet</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent5" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-display-task-pool-project-view">
+        <MicroContentPhrase>how do you can I display task pool project view</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display fragnet project view</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I see task pool project view</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I see fragnet project view</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add task pool project view</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add fragnet project view</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_project_view.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-create-task-network-task-pool">
+        <MicroContentPhrase>how do you can I create task network task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create task network fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I use task pool</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I use fragnet</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I insert task pool into project</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I insert fragnet into project</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_using.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

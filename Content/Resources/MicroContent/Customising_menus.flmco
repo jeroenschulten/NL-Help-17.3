@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="how-do-you-can-i-assign-keyboard-shortcut-to-ribbon-command">
+        <MicroContentPhrase>how do you can I assign keyboard shortcut to ribbon command</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign keyboard shortcut to ribbon option</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I ribbon keyboard shortcut</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I use keyboard ribbon commands</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I use keyboard ribbon controls</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I ribbon customisation keyboard</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I customise ribbon keyboard shortcut</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-remove-ribbon-keyboard-shortcut">
+        <MicroContentPhrase>how do you can I remove ribbon keyboard shortcut command</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove keyboard shortcut ribbon option</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete keyboard shortcut ribbon option</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete ribbon keyboard shortcut command</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete ribbon keyboard shortcut</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove ribbon keyboard shortcut</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-reset-ribbon-keyboard-shortcut">
+        <MicroContentPhrase>how do you can I reset ribbon keyboard shortcut</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I reset ribbon keyboard shortcut default</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent3" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-add-command-to-object-edit-toolbar">
+        <MicroContentPhrase>how do you can I add command to object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add option to object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I customise object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add macro to object edit toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-change-position-command-on-object-edit-toolbar">
+        <MicroContentPhrase>how do you can I change position command on object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move command right object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move command left object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move command object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change position option on object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move option left object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move option right object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move option object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rearrange object edit toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-remove-command-from-object-edit-toolbar">
+        <MicroContentPhrase>how do you can I remove command from object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete command from object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete option from object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove option from object edit toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent3" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-rename-macro-object-edit-toolbar">
+        <MicroContentPhrase>how do you can I rename macro object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rename macro command object edit toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change name of macro object edit toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent4" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-add-command-to-quick-access-toolbar">
+        <MicroContentPhrase>how do you can I add command to quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add macro to quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add option to quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I customise quick access toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-change-position-command-on-quick-access-toolbar">
+        <MicroContentPhrase>how do you can I change position command on quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change position option on quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move command left quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move command quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move command right quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move option left quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move option quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move option right quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rearrange quick access toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-remove-command-from-quick-access-toolbar">
+        <MicroContentPhrase>how do you can I remove command from quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete command from quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete option from quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove option from quick access toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent3" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-display-quick-access-toolbar-above-ribbon">
+        <MicroContentPhrase>how do you can I display quick access toolbar above ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display quick access toolbar below ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify where to display quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify position of quick access toolbar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change position of quick access toolbar</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent5" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-add-command-to-ribbon">
+        <MicroContentPhrase>how do you can I add command to ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add macro to ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add option to ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I customise ribbon</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-add-group-to-ribbon">
+        <MicroContentPhrase>how do you can I add group to ribbon</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-add-tab-to-ribbon">
+        <MicroContentPhrase>how do you can I add tab to ribbon</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent3" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-remove-command-from-ribbon">
+        <MicroContentPhrase>how do you can I remove command from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete command from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete option from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove option from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove tab from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete tab from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I remove group from ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I delete group from ribbon</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent4" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-change-position-command-on-ribbon">
+        <MicroContentPhrase>how do you can I change position command on ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change position group on ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change position tab on ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move ribbon command</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move ribbon tab</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I move ribbon group</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rearrange ribbon</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent5" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-rename-ribbon-command">
+        <MicroContentPhrase>how do you can I rename ribbon tab</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rename ribbon group</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change name of ribbon group</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change name of ribbon tab</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent6" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-rename-macro-ribbon">
+        <MicroContentPhrase>how do you can I rename macro ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I change name of macro ribbon</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I rename macro command ribbon</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent7" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-export-ribbon-toolbar-customisation-settings-xml-file">
+        <MicroContentPhrase>how do you can I export ribbon toolbar customisation settings xml file</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I save ribbon toolbar customisation settings xml file</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I export ribbon customisation settings xml</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I save ribbon customisation settings xml</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I export toolbar customisation settings xml</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I save toolbar customisation settings xml</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent8" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-import-ribbon-toolbar-customisation-settings-xml-file">
+        <MicroContentPhrase>how do you can I import ribbon toolbar customisation settings xml file</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I import ribbon customisation settings xml</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I import toolbar customisation settings xml</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent9" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-reset-ribbon-to-default">
+        <MicroContentPhrase>how do you can I reset ribbon to default</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I reset toolbars to default</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I reset quick access toolbar to default</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I reset object edit toolbar to default</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent10" />
+    </MicroContent>
+</MicroContentSet>

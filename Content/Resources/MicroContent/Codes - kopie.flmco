@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="how-do-you-can-i-assign-code-to-task">
+        <MicroContentPhrase>how do you can I assign code to task</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code to allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to task</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code to cost allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to cost allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code to resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code to permanent resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to permanent resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code to consumable resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to consumable resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign code to bar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate code to bar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto bar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto task</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto cost allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto permanent resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I drag drop code onto consumable resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code task</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code bar</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code cost allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code permanent resource allocation</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I colour code consumable resource allocation</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Assigning_codes.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-display-code-breakdown-structure">
+        <MicroContentPhrase>how do you can I display code breakdown structure</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code breakdown structure</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show code breakdown structure</MicroContentPhrase>
+        <MicroContentPhrase>what is code breakdown structure</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show bars tasks to which codes assigned</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show bars tasks to which codes allocated</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display bars tasks to which codes assigned</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display bars tasks to which codes allocated</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I open code breakdown structure</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Code_breakdown_structure.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-specify-colour-code-breakdown-structure-subheadings">
+        <MicroContentPhrase>how do you can I specify colour code breakdown structure subheading</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set colour code breakdown structure subheading</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set colour code breakdown structure heading</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify colour code breakdown structure heading</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code breakdown structure fixed band colour</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I fixed band colour</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Code_breakdown_structure.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-specify-code-libraries-display-bar-chart">
+        <MicroContentPhrase>how do you can I specify code libraries display bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set code libraries display bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code library display bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show code library bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display multiple code libraries bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show multiple code libraries bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show more than one code library bar chart</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I display more than one code library bar chart</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Code_lib_display_project_view.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-multiple-display-libraries">
+        <MicroContentPhrase>how do you can I multiple display libraries order</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show libraries in this order</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I show code libraries in this order</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set order multiple code libraries</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify order multiple code libraries</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Code_lib_display_project_view.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-codes">
+        <MicroContentPhrase>how do you can I codes</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code libraries</MicroContentPhrase>
+        <MicroContentPhrase>what is a code</MicroContentPhrase>
+        <MicroContentPhrase>what are codes</MicroContentPhrase>
+        <MicroContentPhrase>what is a code library</MicroContentPhrase>
+        <MicroContentPhrase>what are code libraries</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Colour_coding_intro.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-code-library-single-select">
+        <MicroContentPhrase>how do you can I code library single select</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code single select</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign multiple code from library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate multiple code from library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I assign more than one code from library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I allocate more than one code from library</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Colour_coding_intro.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-default-code">
+        <MicroContentPhrase>how do you can I default code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set default code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify default code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code assign by default</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code allocate by default</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I default task code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I default bar code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set default bar code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify default bar code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set default task code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify default task code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I default library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I default code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set default library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I set default code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify default library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I specify default code library</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Default_codes.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-create-code-library">
+        <MicroContentPhrase>how do you can I create code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create new code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create new code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create code library entry</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I create new code library entry</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add code library entry</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add new code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add new code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I add new code library entry</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I new code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I new code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I code library entry</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Organising_your_code_libraries.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="how-do-you-can-i-organise-codes">
+        <MicroContentPhrase>how do you can I organise code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I organise code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I organise code library entry</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I structure code</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I structure code library</MicroContentPhrase>
+        <MicroContentPhrase>how do you can I structure code library entry</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Organising_your_code_libraries.htm#microcontent2" />
+    </MicroContent>
+</MicroContentSet>
