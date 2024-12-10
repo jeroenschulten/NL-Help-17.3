@@ -15,8 +15,7 @@
             </MadCap:dropDownHead>
             <MadCap:dropDownBody>
                 <h2>Controleer resource beschikbaarheid bij het wijzigen van details van de resource toewijzingen van een taak</h2>
-                <p>Vóór deze versierelease kon u configureren dat <MadCap:variable name="Primary.Powerproject Name" /> de beschikbaarheid van resources checkt bij het maken van nieuwe resource toewijzingen. Nu kunt u ook you configureren dat <MadCap:variable name="Primary.Powerproject Name" /> de beschikba+</p>
-                <p>arheid van resources checkt  bij het wijzigen van details van de resource toewijzingen van een taak. U doet dit middels het inschakelen van het <b>Toon overbezetting wanneer toewijzingen veranderen</b> selectievakje dat toegevoegd is aan het  <b>Toewijzen</b> tabblad van het <b>Opties</b> dialoogvenster:</p>
+                <p>Vóór deze versierelease kon u configureren dat <MadCap:variable name="Primary.Powerproject Name" /> de beschikbaarheid van resources checkt bij het maken van nieuwe resource toewijzingen. Nu kunt u ook you configureren dat <MadCap:variable name="Primary.Powerproject Name" /> de beschikbaarheid van resources checkt  bij het wijzigen van details van de resource toewijzingen van een taak. U doet dit middels het inschakelen van het <b>Toon overbezetting wanneer toewijzingen veranderen</b> selectievakje dat toegevoegd is aan het  <b>Toewijzen</b> tabblad van het <b>Opties</b> dialoogvenster:</p>
                 <p>
                     <img src="../../../Graphics/Whats_new/wn1703showoverallocation.png" alt="The 'Show overallocation when allocations change' check box, highlighted on the Assign tab of the Options dialog" />
                 </p>
@@ -51,28 +50,32 @@
                 <p>
                     <MadCap:snippetText src="../../../Resources/Snippets/Edit_assignments_2.flsnp" />
                 </p>
-                <p><a href="../../../HTML_Topics/Conceptual/Multi_user/Specifying_user_access_rights/Specifying_user_access_rights.htm" xmlns="http://www.w3.org/1999/xhtml">More information on specifying user access rights</a>
+                <p><a href="../../../HTML_Topics/Conceptual/Multi_user/Specifying_user_access_rights/Specifying_user_access_rights.htm" xmlns="http://www.w3.org/1999/xhtml">Meer informatie over gebruikerstoegangsrechten</a>
                 </p>
-                <h2>Fewer access rights needed to edit the allocations of permanent resources</h2>
-                <p>Before this release, it was not possible to edit permanent resource allocations in a chart or summary group unless you also had 'Modify' permissions over the chart or summary group's bars and tasks. This restriction had been put in place because changing the finish date of an allocation could cause the finish date of the task to change.</p>
-                <p>This restriction was felt to be too severe, as there are many allocation edits you can make that do not impact the finish date of the task.</p>
-                <p>Now, you no longer need 'Modify' permissions over a chart or summary group's bars and tasks to edit permanent resource allocations - or any other allocations in that chart or summary group. The ability to edit allocations is now determined by allocation 'Modify' permissions for the chart or summary group, and by the new <b>Edit Assignments</b> check box that has been added to the <b>Library Access Rights</b> tab of the <b>Security Group Properties</b> dialog (see above).</p>
-                <p>However, if you edit an allocation in such a way that would cause the finish date of the task to change, your edit will fail if you do not have 'Modify' permissions over the chart or summary group's bars and tasks. This includes edits such as:</p>
+                <h2>Minder toegangsrechten nodig om de toewijzingen van resources te wijzigen</h2>
+                <p>Vóór deze release was het niet mogelijk om resource-toewijzingen in een kaart of samenvattingsgroep te bewerken, tenzij u ook 'Aanpassen'-machtigingen had voor de balken en taken van de kaart of de samenvattingsgroep. Deze beperking was ingesteld omdat het wijzigen van de einddatum van een toewijzing ertoe kon leiden dat de einddatum van de taak veranderde.</p>
+                <p>Deze beperking werd als te streng ervaren, omdat er veel toewijzingsaanpassingen gemaakt kunnen worden die geen invloed hebben op de einddatum van de taak.</p>
+                <p>Nu hebt u geen 'Aanpassingen'-machtigingen meer nodig voor de balken en taken van een kaart of samenvattingsgroep om resource-toewijzingen te bewerken - of andere toewijzingen in die kaart of samenvattingsgroep. De mogelijkheid om toewijzingen te bewerken wordt nu bepaald door toewijzing 'Aanpassingen'-machtigingen voor de kaart of samenvattingsgroep en door het nieuwe selectievakje <b>Toewijzingen bewerken </b>dat is toegevoegd aan het <b>Bibliotheek Toegangsrechten</b> tabblad van het dialoogvenster <b>Securitygroep Eigenschappen</b>  (zie hierboven).</p>
+                <p>Als u echter een toewijzing bewerkt op een manier die de einddatum van de taak zou veranderen, mislukt uw bewerking als u geen 'Aanpassingen'-machtigingen hebt voor de balken en taken van de kaart of samenvattingsgroep. Dit omvat bewerkingen zoals:</p>
                 <ul>
-                    <li>Dragging and resizing allocations in the bar chart.</li>
-                    <li>Editing allocation properties such as duration, effort, the 'may be shorter than task' setting and modelling parameters.</li>
-                    <li>Editing allocations using the spreadsheet and Object Edit toolbar.</li>
+                    <li>Toewijzingen in de balkkaart slepen en de grootte ervan wijzigen.</li>
+                    <li>Toewijzingseigenschappen bewerken, zoals duur, inspanning, de instelling 'korter dan taak' en modelleringsparameters.</li>
+                    <li>Toewijzingen bewerken met behulp van tabel en of via de Object bewerken werkbalk.</li>
                 </ul>
-                <p><a href="../../../HTML_Topics/Conceptual/Multi_user/Specifying_user_access_rights/Specifying_user_access_rights.htm" xmlns="http://www.w3.org/1999/xhtml">More information on specifying user access rights</a>
+                <p><a href="../../../HTML_Topics/Conceptual/Multi_user/Specifying_user_access_rights/Specifying_user_access_rights.htm" xmlns="http://www.w3.org/1999/xhtml">Meer informatie over gebruikerstoegangsrechten</a>
                 </p>
-                <h2>More control when exporting projects to Microsoft Project</h2>
-                <p>This release introduces a number of improvements to the <b>Microsoft Project Export Wizard</b>, which you use to export projects to Microsoft Project in XML or MPP format. These improvements give you more control over how the export handles certain elements that are not supported by Microsoft Project, and the wizard now warns you of differences that may be apparent between the original project and the exported data.</p>
-                <p>The following improvements have been made:</p>
+                <h2>Meer controle bij het exporteren van projecten naar Microsoft Project</h2>
+                <p>Deze release introduceert een aantal verbeteringen aan de <b>Microsoft Project Export Wizard</b>, die u gebruikt om projecten te exporteren naar Microsoft Project in XML- of MPP-formaat. Deze verbeteringen geven u meer controle over hoe de export bepaalde elementen verwerkt die niet worden ondersteund door Microsoft Project, en de wizard waarschuwt u nu voor verschillen die zichtbaar kunnen zijn tussen het oorspronkelijke project en de geëxporteerde gegevens.</p>
+                <p>De volgende verbeteringen zijn doorgevoerd:</p>
                 <ul>
-                    <li>You can now <a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardmilestones.htm">specify how to handle finish milestones</a>, which are not supported by Microsoft Project, during the export:<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportmilestones.png" alt="The new 'Project Milestones' page of the Microsoft Project Export Wizard" /></li>
-                    <li>You can now <a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardexpanded.htm">specify how to handle expanded tasks</a>, which are not supported by Microsoft Project, during the export:<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportexpanded.png" alt="The new 'Expanded Tasks' page of the Microsoft Project Export Wizard" /></li>
-                    <li>You can now <a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardinterruptible.htm">specify how to handle interruptible tasks</a>, which are not supported by Microsoft Project, during the export:<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportinterruptible.png" alt="The new 'Interruptible Tasks' page of the Microsoft Project Export Wizard" /></li>
-                    <li><a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardnotifications.htm">The wizard now warns you of differences that may be apparent between the original project and the exported data</a>.<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportnotifications.png" alt="The new 'Data Export Limitation Notifications' page of the Microsoft Project Export Wizard" /></li>
+                    <li>U kunt nu, tijdens het exporteren <a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardmilestones.htm">specificeren hoe om te gaan met eindmijlpalen</a>, welke namelijk niet ondersteund worden door Microsoft Project:<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportmilestones.png" alt="The new 'Project Milestones' page of the Microsoft Project Export Wizard" /></li>
+                    <li>U kunt nu, tijdens het exporteren <a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardexpanded.htm">specificeren hoe om te gaan met niveautaken</a>,  welke namelijk niet ondersteund worden door Microsoft Project:<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportexpanded.png" alt="The new 'Expanded Tasks' page of the Microsoft Project Export Wizard" /></li>
+                    <li>U kunt nu, tijdens het exporteren <a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardinterruptible.htm">specificeren hoe om te gaan met duur berekende taken</a>, welke namelijk niet ondersteund worden door Microsoft Project:<br /><br /><img src="../../../Graphics/Whats_new/wn173mspexportinterruptible.png" alt="The new 'Interruptible Tasks' page of the Microsoft Project Export Wizard" /></li>
+                    <li><a href="../../../HTML_Topics/Dialogs/D_XMLexportwizardnotifications.htm">De wizard waarschuwt u nu voor eventuele verschillen tussen het oorspronkelijke project en de geëxporteerde gegevens.</a>
+                        <br />
+                        <br />
+                        <img src="../../../Graphics/Whats_new/wn173mspexportnotifications.png" alt="The new 'Data Export Limitation Notifications' page of the Microsoft Project Export Wizard" />
+                    </li>
                 </ul>
                 <p><a href="../../../HTML_Topics/Conceptual/Starting_work/MSProject/MS_Project_export.htm">Meer informatie over het exporteren van projecten naar Microsoft Project</a>
                 </p>
