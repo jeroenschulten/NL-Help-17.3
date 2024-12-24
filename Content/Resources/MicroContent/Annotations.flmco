@@ -39,17 +39,11 @@
         <MicroContentPhrase>hoe kan ik de kleur van een notitie veranderen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de kleur van een afbeeldingnotitie veranderen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de OLE-notitie kleuren</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik de border annotation</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik border text annotation verbergen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik border picture annotation verbergen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik border OL verbergen</MicroContentPhrase>
-        <MicroContentResponse>
-            <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
-                <xhtml:body>
-                    <xhtml:p>&#160;</xhtml:p>
-                </xhtml:body>
-            </xhtml:html>
-        </MicroContentResponse>
+        <MicroContentPhrase>hoe kan ik de rand notitie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik rand tekstnotitie verbergen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik rand picture notitie verbergen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik rand OL verbergen</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Colours_borders/Colours_borders.htm#microcontent1" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-notitie-knippen">
         <MicroContentPhrase>hoe kan ik notities knippen</MicroContentPhrase>
@@ -106,7 +100,7 @@
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Displaying_annotations/Displaying_annotations.htm#microcontent1" />
     </MicroContent>
     <MicroContent id="wat-is-notitie">
-        <MicroContentPhrase>wat is notitie</MicroContentPhrase>
+        <MicroContentPhrase>wat is een notitie</MicroContentPhrase>
         <MicroContentPhrase>wat zijn notities</MicroContentPhrase>
         <MicroContentPhrase>introductie van notitie</MicroContentPhrase>
         <MicroContentPhrase>notitie</MicroContentPhrase>
@@ -125,8 +119,8 @@
         <MicroContentPhrase>hoe kan ik afbeeldingsnotitie filteren</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Filter_automate/Filter_automate.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-annotation-foreground">
-        <MicroContentPhrase>hoe kan ik notitie voorgrond</MicroContentPhrase>
+    <MicroContent id="how-do-you-notitie-foreground">
+        <MicroContentPhrase>hoe kan ik notitie voorgrond instellen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik notitie achtergrond</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik tekst notitie voorgrond</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik tekst notitie achtergrond</MicroContentPhrase>
@@ -180,11 +174,11 @@
         <MicroContentPhrase>hoe kan ik een extern bestand toevoegen aan een balkkaart</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een document toevoegen aan een balkkaart</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een spreadsheet toevoegen aan een balkkaart</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/OLE_annotations/Creating_OLE_annotations.htm#microcontent2" />
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/OLE_annotations/Creating_OLE_annotations.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="hoe-kan-ik-ole-annotation-bewerken">
+    <MicroContent id="hoe-kan-ik-ole-notitie-bewerken">
         <MicroContentPhrase>hoe kan ik OLE-notities bewerken</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik OLE-notities op de verkeerde plaats bewerken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik OLE-notities op een andere plaats extern bewerken</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/OLE_annotations/Editing_OLE_annotations.htm#microcontent1" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-een-afbeelding-notitie-maken">
@@ -284,7 +278,7 @@
         <MicroContentPhrase>beschrijving van afbeeldingsnotitie</MicroContentPhrase>
         <MicroContentPhrase>inleiding van afbeeldingsnotitie</MicroContentPhrase>
         <MicroContentPhrase>wat is afbeeldingsnotitie</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Picture_annotations/Creating_picture_annotations.htm#microcontent2" />
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Sizing_annotations/Sizing_annotations.htm" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-tekstnotitie">
         <MicroContentPhrase>hoe kan ik tekstnotitie</MicroContentPhrase>
@@ -305,8 +299,8 @@
         <MicroContentPhrase>hoe kan ik tekstnotitie wijzigen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Editing_text_in_an_annotation.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="hoe-kan-ik-tekst-notitie-formatteren">
-        <MicroContentPhrase>hoe kan ik tekstnotitie formatteren</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-tekst-notitie-opmaken">
+        <MicroContentPhrase>hoe kan ik tekstnotitie opmaken</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik lettertype tekstnotitie wijzigen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik verander lettertype notitie</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de lettergrootte van de tekstnotitie veranderen</MicroContentPhrase>
@@ -317,43 +311,34 @@
     <MicroContent id="hoe-kan-ik-een-functieveld-invoegen-in-een-notitie">
         <MicroContentPhrase>hoe kan ik een functieveld invoegen in een notitie</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een functieveld invoegen in een tekstnotitie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik functieveld invoegen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Function_tokens_annotations.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="hoe-kan-ik-margin-annotation-instellen">
-        <MicroContentPhrase>hoe kan ik margin annotation instellen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik margin annotation specificeren</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik margin text annotation specificeren</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik margin text annotation instellen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik annotation margin</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik text annotation margin</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-marges-notitie-instellen">
+        <MicroContentPhrase>hoe kan ik marges notitie instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik marges notitie specificeren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik marges tekstnotitie specificeren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik marges tekstnotitie instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik notitie marges</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik tekstnotitie marges</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Margins_annotations.htm#microcontent1" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-een-veld-in-een-notitie-invoegen">
         <MicroContentPhrase>hoe kan ik een veld in een notitie invoegen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een veld in een tekstnotitie invoegen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik een token in een tekstnotitie invoegen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik een token in een notitie invoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een veld in een tekstnotitie invoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een veld in een notitie invoegen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een veldnotitie invoegen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een veldtekstnotitie invoegen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik een tekst token notitie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een tekst veld notitie</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik veldnotitie toevoegen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik veldtekstnotitie toevoegen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik tokennotitie toevoegen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik tokentekstnotitie toevoegen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik basislijngegevens weergeven in notitie</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik basislijngegevens weergeven in tekstnotitie</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Tokens_annotations.htm#microcontent1" />
-    </MicroContent>
-    <MicroContent id="xxx">
-        <MicroContentPhrase>Hoe kan ik tekstnotities maken</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/ Annotations/Text_annotations/Creating_text_annotations.htm#microcontent1" />
-    </MicroContent>
-    <MicroContent id="wat-zijn-tekstnotities">
+        <MicroContentPhrase>hoe kan ik veldnotitie toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik veldtekstnotitie toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik baseline gegevens weergeven in notitie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik baseline gegevens weergeven in tekstnotitie</MicroContentPhrase>
         <MicroContentPhrase>Wat zijn tekstnotities?</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Creating_text_annotations.htm#microcontent2" />
-    </MicroContent>
-    <MicroContent id="u-kunt-de-tekst-in-een-notitie-bewerken-door-te-dubbelklikken-op-de-notitie--u-kunt-ook-met-de-rechtermuisknop-op-de-notitie-k likken-en-de-opdracht-bewerken-kiezen--de-notitie-is-geselecteerd-en-de-cursor-wordt-in-de-tekst-weergegeven">
-        <MicroContentPhrase>U kunt de tekst in een notitie bewerken door te dubbelklikken op de notitie. U kunt ook met de scheiding op de notitie klikken en de opdracht Bewerken kiezen. De notitie wordt geselecteerd en de cursor wordt in de tekst weergegeven.</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Editing_text_in_an_annotation.htm#microcontent1" />
+        <MicroContentPhrase>Hoe kan ik tekstnotities maken</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Tokens_annotations.htm" />
     </MicroContent>
 </MicroContentSet>

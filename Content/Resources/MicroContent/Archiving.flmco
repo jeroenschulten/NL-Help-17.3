@@ -1,46 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MicroContentSet Comment="Standaard micro-inhoudsset." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
-<MicroContent id="hoe-kan-u-ik-archiveren-introductie">
-<MicroContentPhrase>hoe kan ik archiveren introductie</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik archiveren wat is archiveren</MicroContentPhrase>
-<MicroContentPhrase>wat zijn de voordelen van archiveren</MicroContentPhrase>
-<MicroContentPhrase>waarom zou ik gegevens moeten archiveren</MicroContentPhrase>
-<MicroContentPhrase>wat zijn de voordelen van archiveren</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gegevens archiveren</MicroContentPhrase>
-<MicroContentPhrase>gegevens archiveren</MicroContentPhrase>
-<MicroContentPhrase>archiveren</MicroContentPhrase>
-<MicroContentPhrase>archiveren</MicroContentPhrase>
-<MicroContentPhrase>archiveren</MicroContentPhrase>
-<MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archiving_intro.htm#microcontent1" />
-</MicroContent>
-<MicroContent id="hoe-kan-ik-gegevens-archiveren-in-projectweergave">
-<MicroContentPhrase>hoe kan ik gegevens archiveren in projectweergave</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gegevens archiveren in projectweergave</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik zien wat er is gearchiveerd</MicroContentPhrase>
-<MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archive_display.htm#microcontent1" />
-</MicroContent>
-<MicroContent id="hoe-kan-ik-archived-data-project-view-tonen">
-<MicroContentPhrase>hoe kan ik gearchiveerde data projectweergave tonen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde data projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik archieven projectweergave tonen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik archieven projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik archieven projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde grafieken projectweergave tonen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde samenvattingen projectweergave weergeven</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde samenvattingen projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde uitgebreide taken projectweergave weergeven</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde uitgebreide taken projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde samenvattingstaken projectweergave weergeven</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde samenvattingstaken projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde samenvattingstaken projectweergave verbergen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik gearchiveerde samenvattingsgroepen projectweergave weergeven</MicroContentPhrase>
-<MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archive_display.htm#microcontent2" />
-</MicroContent>
-<MicroContent id="hoe-kun-je-i-shading-on-bars-containing-archives">
-<MicroContentPhrase>hoe kan ik arcering aanbrengen op balken met archieven</MicroContentPhrase>
-<MicroContentPhrase>arcering aanbrengen op balken met archieven</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik zien waar gegevens zijn gearchiveerd</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik zien waar gegevens zijn gearchiveerd</MicroContentPhrase>
-<MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archive_display.htm#microcontent3" />
-</MicroContent>
+    <MicroContent id="hoe-kan-u-ik-archiveren-introductie">
+        <MicroContentPhrase>hoe kan ik archiveren introductie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik archiveren wat is archiveren</MicroContentPhrase>
+        <MicroContentPhrase>wat zijn de voordelen van archiveren</MicroContentPhrase>
+        <MicroContentPhrase>waarom zou ik gegevens moeten archiveren</MicroContentPhrase>
+        <MicroContentPhrase>wat zijn de voordelen van archiveren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gegevens archiveren</MicroContentPhrase>
+        <MicroContentPhrase>gegevens archiveren</MicroContentPhrase>
+        <MicroContentPhrase>archief</MicroContentPhrase>
+        <MicroContentPhrase>archieven</MicroContentPhrase>
+        <MicroContentPhrase>archiveren</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archiving_intro.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe-kan-ik-gegevens-archiveren-in-project view">
+        <MicroContentPhrase>hoe kan ik gegevens archiveren in project view</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gegevens archiveren in project view</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik zien wat er is gearchiveerd</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archive_display.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe-kan-ik-archived-data-project-view-tonen">
+        <MicroContentPhrase>hoe kan ik gearchiveerde data in de project view tonen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde data in de project view verbergen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik archieven in de project view tonen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik archieven in de project view verbergen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde samenvattingen in de project view verbergen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde samenvattingsgroepen in de project view verbergen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde kaarten in de project view tonen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde samenvattingen in de project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde niveautaken in de project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde samenvattingen in de project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde samenvattingstaken in de project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik gearchiveerde samenvattingsgroepen in de project view weergeven</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archive_display.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="hoe-kun-je-i-shading-on-bars-containing-archives">
+        <MicroContentPhrase>hoe kan ik arcering aanbrengen op balken met archieven</MicroContentPhrase>
+        <MicroContentPhrase>arcering aanbrengen op balken met archieven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik zien waar gegevens zijn gearchiveerd</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik tonen waar gegevens zijn gearchiveerd</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Archiving/Archive_display.htm#microcontent3" />
+    </MicroContent>
 </MicroContentSet>
