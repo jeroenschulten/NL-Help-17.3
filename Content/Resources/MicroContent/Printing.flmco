@@ -1,19 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
-    <MicroContent id="how-do-you-can-i-powerdraw">
-        <MicroContentPhrase>how do you can I powerdraw</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add company logo to printout</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add corporate logo to printout</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add logo to printout</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I asta powerdraw</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I border</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I border file</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I company logo</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I corporate logo</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I logo</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I print company logo</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I print corporate logo</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I print logo</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Printing/Introduction_to_border_files/Introduction_to_border_files.htm#microcontent1" />
-    </MicroContent>
+<MicroContentSet Comment="Standaard micro-inhoudsset." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+<MicroContent id="hoe-kan-ik-powerdraw">
+<MicroContentPhrase>hoe kan ik powerdraw</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een bedrijfslogo toevoegen aan een afdruk</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een bedrijfslogo toevoegen aan een afdruk</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een logo toevoegen aan een afdruk</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een logo toevoegen aan een afdruk</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een logo toevoegen aan een afdruk</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik asta powerdraw</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een border</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een border bestand</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een bedrijfslogo</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een bedrijfslogo</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een logo</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een bedrijfslogo afdrukken</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een bedrijfslogo afdrukken</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik een logo afdrukken</MicroContentPhrase>
+<MicroContentResponse href="../../HTML_Topics/Conceptual/Printing/Introduction_to_border_files/Introduction_to_border_files.htm#microcontent1" />
+</MicroContent>
 </MicroContentSet>

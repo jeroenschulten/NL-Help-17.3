@@ -1,22 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
-    <MicroContent id="how-do-you-can-i-auto-save">
-        <MicroContentPhrase>how do you can I auto save</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I autosave</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save automatically</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I turn on autosave</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I turn off autosave</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I turn on auto save</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I turn off auto save</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I enable auto save</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I disable auto save</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I enable autosave</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I disable autosave</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save every x minutes</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save project automatically</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save work automatically</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I autosave work</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I auto save work</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Starting_work/Finishing_your_work_session/Auto_save.htm#microcontent1" />
-    </MicroContent>
+<MicroContentSet Comment="Standaard micro-inhoudsset." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+<MicroContent id="hoe-kan-ik-automatisch-opslaan">
+<MicroContentPhrase>hoe kan ik automatisch opslaan</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik automatisch werk opslaan</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik werk automatisch opslaan</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik automatisch opslaan inschakelen</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik automatisch werk opslaan uitschakelen</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik automatisch opslaan inschakelen</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik automatisch werk opslaan uitschakelen</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik elke x minuten opslaan</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik project automatisch opslaan</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik projectwerk automatisch opslaan</MicroContentPhrase>
+<MicroContentPhrase>hoe kan ik het project automatisch opslaan</MicroContentPhrase>
+<MicroContentResponse href="../../HTML_Topics/Conceptual/Starting_work/Finishing_your_work_session/Auto_save.htm#microcontent1" />
+</MicroContent>
 </MicroContentSet>

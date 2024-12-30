@@ -1,76 +1,80 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
-    <MicroContent id="how-do-you-can-i-task-pool">
-        <MicroContentPhrase>how do you can I task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I task pool introduction</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I task pool what is</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I task pool what are</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I fragnet introduction</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I fragnet what is</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I fragnet what are</MicroContentPhrase>
-        <MicroContentPhrase>task pool</MicroContentPhrase>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="False">
+    <MicroContent id="hoe-kan-ik-taak-poolen">
+        <MicroContentPhrase>hoe kan ik taakpoolen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taakpoolen introductie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taakpoolen wat is</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taakpoolen wat zijn</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet introductie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet wat is</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet wat zijn</MicroContentPhrase>
+        <MicroContentPhrase>taak pool</MicroContentPhrase>
         <MicroContentPhrase>fragnet</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_intro.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-create-new-task-pool">
-        <MicroContentPhrase>how do you can I create new task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I make new task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I make new fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I create new fragnet</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-een-nieuwe-taak pool-maken">
+        <MicroContentPhrase>hoe kan ik een nieuwe taak pool maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe taak pool maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe taak pool maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuw fragnet maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuw fragnet maken</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_creating.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-edit-task-pool">
-        <MicroContentPhrase>how do you can I edit task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I edit fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add task to task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add task to fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete task from task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete tasks from fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove task from task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove task from fragnet</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-taak pool-bewerken">
+        <MicroContentPhrase>hoe kan ik taak pool bewerken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet bewerken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak toevoegen aan taak pool</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak toevoegen aan fragnet</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak verwijderen uit taak pool</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taken verwijderen uit fragnet</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taken verwijderen uit fragnet</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taken uit takenpool verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taken uit fragnet verwijderen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-align-tasks-in-task-pool">
-        <MicroContentPhrase>how do you can I align tasks in task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I align tasks in fragnet</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-taken-uitlijnen-in-takenpool">
+        <MicroContentPhrase>hoe kan ik taken uitlijnen in taak pool</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taken uitlijnen in fragnet</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent2" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-rename-task-pool">
-        <MicroContentPhrase>how do you can I rename task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change name task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rename fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change name fragnet</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-taak pool-hernoemen">
+        <MicroContentPhrase>hoe kan ik de taak pool hernoemen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de taak pool een andere naam geven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de taak pool een andere naam geven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet een andere naam geven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet een andere naam geven</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent3" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-delete-task-pool">
-        <MicroContentPhrase>how do you can I delete task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove fragnet</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-taak pool-verwijderen">
+        <MicroContentPhrase>hoe kan ik taak pool verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak pool verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet verwijderen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent4" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-access-rights-task-pool">
-        <MicroContentPhrase>how do you can I access rights task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I access rights fragnet</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-toegang-krijgen-tot-rechten-taak pool">
+        <MicroContentPhrase>hoe kan ik toegang krijgen tot rechten taak pool</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik rechten fragnet openen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_editing.htm#microcontent5" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-display-task-pool-project-view">
-        <MicroContentPhrase>how do you can I display task pool project view</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I display fragnet project view</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I see task pool project view</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I see fragnet project view</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add task pool project view</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add fragnet project view</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-taak pool-project-weergave-weergeven">
+        <MicroContentPhrase>hoe kan ik taak pool project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnetprojectweergave weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak pool project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak pool project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet project view weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak pool project view toevoegen view</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet project view toevoegen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_project_view.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-create-task-network-task-pool">
-        <MicroContentPhrase>how do you can I create task network task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I create task network fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I use task pool</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I use fragnet</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I insert task pool into project</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I insert fragnet into project</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-taak-netwerk-taak-pool-maken">
+        <MicroContentPhrase>hoe kan ik taaknetwerk taak pool maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taaknetwerk fragnet maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taak pool gebruiken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik fragnet gebruiken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik kan ik een taakpool in een project invoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een fragnet in een project invoegen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Task_pools/Task_pools_using.htm#microcontent1" />
     </MicroContent>
 </MicroContentSet>

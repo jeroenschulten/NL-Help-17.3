@@ -1,164 +1,172 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
-    <MicroContent id="how-do-you-can-i-assign-keyboard-shortcut-to-ribbon-command">
-        <MicroContentPhrase>how do you can I assign keyboard shortcut to ribbon command</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I assign keyboard shortcut to ribbon option</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I ribbon keyboard shortcut</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I use keyboard ribbon commands</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I use keyboard ribbon controls</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I ribbon customisation keyboard</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I customise ribbon keyboard shortcut</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-een-toetsenbord-snelkoppeling-toewijzen-aan-het-lint-commando">
+        <MicroContentPhrase>hoe kan ik een sneltoets toewijzen aan een lintopdracht</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een sneltoets toewijzen aan een lintoptie</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een linttoetsenbordsnelkoppeling</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik linttoetsenbordsnelkoppelingen gebruiken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik linttoetsenbordopdrachten gebruiken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik linttoetsenbordbedieningen gebruiken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik linttoetsenbordaanpassing</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik linttoetsenbordsnelkoppeling aanpassen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-remove-ribbon-keyboard-shortcut">
-        <MicroContentPhrase>how do you can I remove ribbon keyboard shortcut command</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove keyboard shortcut ribbon option</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete keyboard shortcut ribbon option</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete ribbon keyboard shortcut command</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete ribbon keyboard shortcut</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove ribbon keyboard shortcut</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-het-lint-toetsenbord-snelkoppeling-verwijderen">
+        <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling commando verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling optie verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling optie verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling commando verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling verwijderen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling verwijderen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent2" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-reset-ribbon-keyboard-shortcut">
-        <MicroContentPhrase>how do you can I reset ribbon keyboard shortcut</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I reset ribbon keyboard shortcut default</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-sneltoets-van-het-lint-toetsenbord-resetten">
+        <MicroContentPhrase>hoe kan ik de sneltoets van het lint-toetsenbord resetten</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard sneltoets van het lint-toetsenbord resetten</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent3" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-add-command-to-object-edit-toolbar">
-        <MicroContentPhrase>how do you can I add command to object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add option to object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I customise object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add macro to object edit toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-sneltoets-van-het-lint-toetsenbord-toevoegen">
+        <MicroContentPhrase>hoe kan ik kan ik een opdracht toevoegen aan de werkbalk objectbewerking</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een optie toevoegen aan de werkbalk objectbewerking</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk objectbewerking aanpassen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een macro toevoegen aan de werkbalk objectbewerking</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-change-position-command-on-object-edit-toolbar">
-        <MicroContentPhrase>how do you can I change position command on object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move command right object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move command left object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move command object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change position option on object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move option left object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move option right object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move option object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rearrange object edit toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-positie-opdracht-op-de-werkbalk-object-bewerken-veranderen">
+        <MicroContentPhrase>hoe kan ik de positieopdracht op de werkbalk objectbewerking wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht naar rechts verplaatsen objectbewerking werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht naar links verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht naar links verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positie van de optie op de object bewerken werkbalk wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie naar links verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie naar rechts verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie naar rechts verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie naar rechts verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie naar links verplaatsen object bewerken werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de object bewerken werkbalk opnieuw rangschikken</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent2" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-remove-command-from-object-edit-toolbar">
-        <MicroContentPhrase>how do you can I remove command from object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete command from object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete option from object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove option from object edit toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-opdracht-verwijderen-van-de-object-edit-toolbar">
+        <MicroContentPhrase>hoe kan ik de opdracht verwijderen van de objectbewerkingswerkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht verwijderen van de objectbewerkingswerkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie verwijderen van de objectbewerkingswerkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie verwijderen van de objectbewerkingswerkbalk</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent3" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-rename-macro-object-edit-toolbar">
-        <MicroContentPhrase>how do you can I rename macro object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rename macro command object edit toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change name of macro object edit toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-macro-object-edit-toolbar-hernoemen">
+        <MicroContentPhrase>hoe kan ik de werkbalk voor het bewerken van macro-objecten hernoemen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk voor het bewerken van macro-opdrachten hernoemen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de naam van de werkbalk voor het bewerken van macro-objecten wijzigen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent4" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-add-command-to-quick-access-toolbar">
-        <MicroContentPhrase>how do you can I add command to quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add macro to quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add option to quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I customise quick access toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-opdracht-toevoegen-aan-de-werkbalk-voor-snelle-toegang">
+        <MicroContentPhrase>hoe kan ik opdrachten toevoegen aan snelle toegang werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een macro toevoegen aan de werkbalk voor snelle toegang</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een optie toevoegen aan de werkbalk voor snelle toegang</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk voor snelle toegang aanpassen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-change-position-command-on-quick-access-toolbar">
-        <MicroContentPhrase>how do you can I change position command on quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change position option on quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move command left quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move command quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move command right quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move option left quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move option quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move option right quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rearrange quick access toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-positie-opdracht-op-de-werkbalk-voor-snelle-toegang-veranderen">
+        <MicroContentPhrase>hoe kan ik de opdracht positie op de werkbalk voor snelle toegang wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie positie op de werkbalk voor snelle toegang wijzigen werkbalk</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht sneltoegangswerkbalk naar links verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht sneltoegangswerkbalk verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht sneltoegangswerkbalk naar rechts verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie sneltoegangswerkbalk naar links verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie sneltoegangswerkbalk naar links verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie sneltoegangswerkbalk naar rechts verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie sneltoegangswerkbalk naar rechts verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk sneltoegangswerkbalk opnieuw rangschikken</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent2" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-remove-command-from-quick-access-toolbar">
-        <MicroContentPhrase>how do you can I remove command from quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete command from quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete option from quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove option from quick access toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-opdracht-verwijderen-van-de-snelle-toegangswerkbalk">
+        <MicroContentPhrase>hoe kan ik de opdracht verwijderen van de werkbalk Snelle toegang</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de opdracht verwijderen van de werkbalk Snelle toegang</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie verwijderen van de werkbalk Snelle toegang</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de optie verwijderen van de werkbalk Snelle toegang</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent3" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-display-quick-access-toolbar-above-ribbon">
-        <MicroContentPhrase>how do you can I display quick access toolbar above ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I display quick access toolbar below ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I specify where to display quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I specify position of quick access toolbar</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change position of quick access toolbar</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-snelle-toegangswerkbalk-boven-lint-weergeven">
+        <MicroContentPhrase>hoe kan ik de werkbalk voor snelle toegang boven het lint weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk voor snelle toegang onder het lint weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk voor snelle toegang onder het lint weergeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik aangeven waar de werkbalk voor snelle toegang moet worden weergegeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positie van de werkbalk voor snelle toegang opgeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positie van de werkbalk voor snelle toegang wijzigen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent5" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-add-command-to-ribbon">
-        <MicroContentPhrase>how do you can I add command to ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add macro to ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I add option to ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I customise ribbon</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-een-opdracht-aan-het-lint-toevoegen">
+        <MicroContentPhrase>hoe kan ik een opdracht aan het lint toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een macro aan het lint toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een optie aan het lint toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een optie aan het lint toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een lint aanpassen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-add-group-to-ribbon">
-        <MicroContentPhrase>how do you can I add group to ribbon</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-een-groep-aan-het-lint-toevoegen">
+        <MicroContentPhrase>hoe kan ik een groep aan het lint toevoegen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent2" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-add-tab-to-ribbon">
-        <MicroContentPhrase>how do you can I add tab to ribbon</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-een-tabblad-aan-het-lint-toevoegen">
+        <MicroContentPhrase>hoe kan ik een tabblad aan het lint toevoegen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent3" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-remove-command-from-ribbon">
-        <MicroContentPhrase>how do you can I remove command from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete command from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete option from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove option from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove tab from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete tab from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I remove group from ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I delete group from ribbon</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-commando-verwijderen-van-het-lint">
+        <MicroContentPhrase>hoe kan ik commando verwijderen van lint</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik commando verwijderen van lint</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik optie verwijderen van lint</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik optie verwijderen van lint</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik tabblad verwijderen van lint</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik tabblad verwijderen van lint</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik groep verwijderen van lint</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent4" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-change-position-command-on-ribbon">
-        <MicroContentPhrase>how do you can I change position command on ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change position group on ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change position tab on ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move ribbon command</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move ribbon tab</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I move ribbon group</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rearrange ribbon</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-de-positie-opdracht-op-het-lint-veranderen">
+        <MicroContentPhrase>hoe kan ik de positieopdracht op het lint wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positiegroep op het lint wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positietab op het lint wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positietab op het lint wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de lintopdracht verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het linttabblad verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de lintgroep verplaatsen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het lint opnieuw rangschikken</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent5" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-rename-ribbon-command">
-        <MicroContentPhrase>how do you can I rename ribbon tab</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rename ribbon group</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change name of ribbon group</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change name of ribbon tab</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-het-lint-command-hernoemen">
+        <MicroContentPhrase>hoe kan ik het linttabblad hernoemen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de lintgroep hernoemen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de naam van de lintgroep wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de naam van het linttabblad wijzigen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent6" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-rename-macro-ribbon">
-        <MicroContentPhrase>how do you can I rename macro ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I change name of macro ribbon</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I rename macro command ribbon</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-macro-lint-hernoemen">
+        <MicroContentPhrase>hoe kan ik het macrolint hernoemen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de naam van het macrolint wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het macroopdrachtlint hernoemen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent7" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-export-ribbon-toolbar-customisation-settings-xml-file">
-        <MicroContentPhrase>how do you can I export ribbon toolbar customisation settings xml file</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save ribbon toolbar customisation settings xml file</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I export ribbon customisation settings xml</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save ribbon customisation settings xml</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I export toolbar customisation settings xml</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I save toolbar customisation settings xml</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-het-bestand-voor-het-aanpassen-van-de-lintwerkbalk-xml-exporteren">
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de lintwerkbalk xml exporteren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de lintwerkbalk xml opslaan</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de lintwerkbalk xml exporteren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de lintwerkbalk xml opslaan</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de lintwerkbalk xml opslaan</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de lintwerkbalk xml exporteren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de aanpassingsinstellingen voor de werkbalk xml opslaan</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent8" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-import-ribbon-toolbar-customisation-settings-xml-file">
-        <MicroContentPhrase>how do you can I import ribbon toolbar customisation settings xml file</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I import ribbon customisation settings xml</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I import toolbar customisation settings xml</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-het-bestand-voor-aanpassing-van-de-ribbon-toolbar-xml-importeren">
+        <MicroContentPhrase>hoe kan ik het bestand met de instellingen voor de aanpassing van de lintwerkbalk xml importeren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de instellingen voor de aanpassing van de lintwerkbalk xml importeren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de instellingen voor de aanpassing van de lintwerkbalk xml importeren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het bestand met de instellingen voor de aanpassing van de werkbalk xml importeren</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent9" />
     </MicroContent>
-    <MicroContent id="how-do-you-can-i-reset-ribbon-to-default">
-        <MicroContentPhrase>how do you can I reset ribbon to default</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I reset toolbars to default</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I reset quick access toolbar to default</MicroContentPhrase>
-        <MicroContentPhrase>how do you can I reset object edit toolbar to default</MicroContentPhrase>
+    <MicroContent id="hoe-kan-ik-het-lint-op-standaard-resetten">
+        <MicroContentPhrase>hoe kan ik het lint op standaard zetten</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalken op standaard zetten</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk voor snelle toegang op standaard zetten</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de werkbalk voor objectbewerking op standaard zetten</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent10" />
     </MicroContent>
 </MicroContentSet>
