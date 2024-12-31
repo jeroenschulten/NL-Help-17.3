@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MicroContentSet Comment="Standaard micro-inhoudsset." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
-<MicroContent id="hoe-kan-ik-de-startdatum-van-het-project-veranderen">
-<MicroContentPhrase>hoe kan ik de startdatum van het project wijzigen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project wijzigen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project wijzigen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project wijzigen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de startdatum van het project opleggen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
-<MicroContentPhrase>Ik heb een startdatum opgelegd</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik een einddatum opgelegd</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik een einddatum opgelegd</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik een projectstartdatum instellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik een projecteinddatum instellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik een projecteinddatum instellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik een projecteinddatum instellen</MicroContentPhrase>
-<MicroContentResponse href="../../HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Start_finish_date.htm#microcontent1" />
-</MicroContent>
-<MicroContent id="hoe-kan-ik-projecteigenschappen-bekijken">
-<MicroContentPhrase>hoe kan ik projecteigenschappen bekijken</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal taken tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal activiteiten tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal taken bekijken</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal activiteiten bekijken</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de taken in een project tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de activiteiten in een project tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal taken in een project tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal activiteiten in een project tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het aantal activiteiten in een project tellen</MicroContentPhrase>
-<MicroContentPhrase>project</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik taken tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik activiteiten tellen</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de totale projectduur bekijken</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik de totale projectkosten bekijken</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik het totale aantal gebruikers bekijken</MicroContentPhrase>
-<MicroContentPhrase>hoe kan ik projecteigenschappen bewerken</MicroContentPhrase>
-<MicroContentResponse href="../../HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Editing_the_properties_of_a_project.htm#microcontent1" />
-</MicroContent>
+<MicroContentSet Comment="Standaard micro-inhoudsset." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="False">
+    <MicroContent id="hoe-kan-ik-de-startdatum-van-het-project-veranderen">
+        <MicroContentPhrase>hoe kan ik de startdatum van het project wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de startdatum van het project opleggen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de einddatum van het project opleggen</MicroContentPhrase>
+        <MicroContentPhrase>Ik heb een startdatum opgelegd</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een einddatum opgelegd</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een einddatum opgelegd</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een projectstartdatum instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een projecteinddatum instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een projecteinddatum instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een projecteinddatum instellen</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Start_finish_date.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe-kan-ik-projecteigenschappen-bekijken">
+        <MicroContentPhrase>hoe kan ik projecteigenschappen bekijken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal taken tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal activiteiten tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal taken bekijken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal activiteiten bekijken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de taken in een project tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de activiteiten in een project tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal taken in een project tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal activiteiten in een project tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het aantal activiteiten in een project tellen</MicroContentPhrase>
+        <MicroContentPhrase>project</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik taken tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik activiteiten tellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de totale projectduur bekijken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de totale projectkosten bekijken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik het totale aantal gebruikers bekijken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik projecteigenschappen bewerken</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Structuring_your_project/Editing_the_properties_of_a_project/Editing_the_properties_of_a_project.htm#microcontent1" />
+    </MicroContent>
 </MicroContentSet>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="False">
     <MicroContent id="hoe-kan-ik-een-toetsenbord-snelkoppeling-toewijzen-aan-het-lint-commando">
         <MicroContentPhrase>hoe kan ik een sneltoets toewijzen aan een lintopdracht</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een sneltoets toewijzen aan een lintoptie</MicroContentPhrase>
@@ -11,6 +11,10 @@
         <MicroContentPhrase>hoe kan ik linttoetsenbordsnelkoppeling aanpassen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent1" />
     </MicroContent>
+    <MicroContent id="om-een-sneltoets-bij-een-opdracht-te-verwijderen">
+        <MicroContentPhrase>Om een sneltoets bij een opdracht te verwijderen</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent2" />
+    </MicroContent>
     <MicroContent id="hoe-kan-ik-het-lint-toetsenbord-snelkoppeling-verwijderen">
         <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling commando verwijderen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling optie verwijderen</MicroContentPhrase>
@@ -18,7 +22,7 @@
         <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling commando verwijderen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling verwijderen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik het lint toetsenbord snelkoppeling verwijderen</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent2" />
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent3" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-de-sneltoets-van-het-lint-toetsenbord-resetten">
         <MicroContentPhrase>hoe kan ik de sneltoets van het lint-toetsenbord resetten</MicroContentPhrase>
@@ -26,14 +30,14 @@
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent3" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-de-sneltoets-van-het-lint-toetsenbord-toevoegen">
-        <MicroContentPhrase>hoe kan ik kan ik een opdracht toevoegen aan de werkbalk objectbewerking</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik kan ik een opdracht toevoegen aan de werkbalk object bewerken</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een optie toevoegen aan de werkbalk objectbewerking</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de werkbalk objectbewerking aanpassen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een macro toevoegen aan de werkbalk objectbewerking</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_OET.htm#microcontent1" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-de-positie-opdracht-op-de-werkbalk-object-bewerken-veranderen">
-        <MicroContentPhrase>hoe kan ik de positieopdracht op de werkbalk objectbewerking wijzigen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de positie  van opdrachten op de werkbalk object bewerken wijzigen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de opdracht naar rechts verplaatsen objectbewerking werkbalk</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de opdracht naar links verplaatsen object bewerken werkbalk</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de opdracht naar links verplaatsen object bewerken werkbalk</MicroContentPhrase>
@@ -93,7 +97,7 @@
         <MicroContentPhrase>hoe kan ik aangeven waar de werkbalk voor snelle toegang moet worden weergegeven</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de positie van de werkbalk voor snelle toegang opgeven</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik de positie van de werkbalk voor snelle toegang wijzigen</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent5" />
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_QAT.htm#microcontent4" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-een-opdracht-aan-het-lint-toevoegen">
         <MicroContentPhrase>hoe kan ik een opdracht aan het lint toevoegen</MicroContentPhrase>
@@ -120,6 +124,10 @@
         <MicroContentPhrase>hoe kan ik tabblad verwijderen van lint</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik groep verwijderen van lint</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_Ribbon.htm#microcontent4" />
+    </MicroContent>
+    <MicroContent id="een-sneltoets-aan-een-opdracht-toe-te-wijzen">
+        <MicroContentPhrase>Een sneltoets aan een opdracht toe te wijzen</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Customising_menus/Ribbon/Customise_keyboard.htm#microcontent1" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-de-positie-opdracht-op-het-lint-veranderen">
         <MicroContentPhrase>hoe kan ik de positieopdracht op het lint wijzigen</MicroContentPhrase>
