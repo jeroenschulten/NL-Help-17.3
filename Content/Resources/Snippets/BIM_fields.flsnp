@@ -19,7 +19,8 @@
                     <td class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1" style="font-weight: bold;">IFC product</td>
                     <td class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">
                         <p>De IFC product zoekset of IFC product selectie waartoe de taak behoort. </p>
-                        <p><a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Building_a_project_schedule/Ways_of_associating_tasks_and_IFC_elements.htm">Manieren om taken te koppelen aan objecten in een IFC model</a>
+                        <p>
+                            <a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Building_a_project_schedule/Ways_of_associating_tasks_and_IFC_elements.htm">Manieren om taken te koppelen aan objecten in een IFC model</a>
                         </p>
                     </td>
                 </tr>
@@ -30,24 +31,37 @@
                         <p class="ParagraphsInTables" xmlns="">&#160;</p>
                         <p>De volgende IFC taak typen zijn beschikbaar:</p>
                         <ul>
-                            <li><b>Bezoek</b>. Pas dit toe op taken die de aanwezigheid van een hulpmiddel vertegenwoordigen, of een periode van wachten tot één of meer gebeurtenissen plaatsvinden.</li>
-                            <li><b>Bouw</b>. Pas dit toe op taken die staan ​​voor het oprichten, fabriceren of bouwen van iets.</li>
-                            <li><b>Sloop</b>. Pas dit toe op taken die staan ​​voor iets naar beneden halen, vernietigen of afbreken.</li>
-                            <li><b>Ontmanteling</b>. Pas dit toe op taken die te maken hebben met het voorzichtig uit elkaar halen, zodat het kan worden gerecycled of hergebruikt.</li>
-                            <li><b>Afvoer</b>. Pas dit toe op taken die staan ​​voor het wegdoen van iets.</li>
-                            <li><b>Installatie</b>. Pas dit toe op taken die het installeren van iets vertegenwoordigen; dit is vergelijkbaar met het taaktype 'Bouw', maar wordt vaker gebruikt voor technische taken.</li>
-                            <li><b>Logistiek</b>. Pas dit toe op taken die betrekking hebben op het vervoeren of afleveren van iets.</li>
-                            <li><b>Onderhoud</b>. Pas dit toe op taken die betrekking hebben op het onderhouden of onderhouden van iets om het in goede staat of in goede staat te houden.</li>
-                            <li><b>Verplaatsen</b>. Pas dit toe op taken die betrekking hebben op het verplaatsen van iets van de ene plaats naar de andere.</li>
-                            <li><b>Operatie</b>. Pas dit toe op taken die de werking of uitvoering van iets vertegenwoordigen.</li>
-                            <li><b>Verwijdering</b>. Pas dit toe op taken die betekenen dat je iets weghaalt van de plaats van gebruik.
+                            <li>
+                                <b>Bezoek</b>. Pas dit toe op taken die de aanwezigheid van een resource- vertegenwoordigen, of een periode van wachten tot één of meer gebeurtenissen plaatsvinden.</li>
+                            <li>
+                                <b>Bouw</b>. Pas dit toe op taken die staan ​​voor het oprichten, fabriceren of bouwen van iets.</li>
+                            <li>
+                                <b>Sloop</b>. Pas dit toe op taken die staan ​​voor iets naar beneden halen, vernietigen of afbreken.</li>
+                            <li>
+                                <b>Ontmanteling</b>. Pas dit toe op taken die te maken hebben met het voorzichtig uit elkaar halen, zodat het kan worden gerecycled of hergebruikt.</li>
+                            <li>
+                                <b>Afvoer</b>. Pas dit toe op taken die staan ​​voor het wegdoen van iets.</li>
+                            <li>
+                                <b>Installatie</b>. Pas dit toe op taken die het installeren van iets vertegenwoordigen; dit is vergelijkbaar met het taaktype 'Bouw', maar wordt vaker gebruikt voor technische taken.</li>
+                            <li>
+                                <b>Logistiek</b>. Pas dit toe op taken die betrekking hebben op het vervoeren of afleveren van iets.</li>
+                            <li>
+                                <b>Onderhoud</b>. Pas dit toe op taken die betrekking hebben op het onderhouden of onderhouden van iets om het in goede staat of in goede staat te houden.</li>
+                            <li>
+                                <b>Verplaatsen</b>. Pas dit toe op taken die betrekking hebben op het verplaatsen van iets van de ene plaats naar de andere.</li>
+                            <li>
+                                <b>Operatie</b>. Pas dit toe op taken die de werking of uitvoering van iets vertegenwoordigen.</li>
+                            <li>
+                                <b>Verwijdering</b>. Pas dit toe op taken die betekenen dat je iets weghaalt van de plaats van gebruik.
 </li>
-                            <li><b>Vernieuwing</b>. Pas dit toe op taken die staan voor het herstellen van iets naar een 'als nieuw' staat.</li>
+                            <li>
+                                <b>Vernieuwing</b>. Pas dit toe op taken die staan voor het herstellen van iets naar een 'als nieuw' staat.</li>
                         </ul>
                         <p class="ParagraphsInTables" xmlns="">Om IFC taak type te gebruiken om de weergave van objecten tijdens tijdlijnsimulaties te controleren, bewerkt u de eigenschappen van elk IFC model of IFC groep model en specificeert u weergave-instellingen voor elk IFC taak type. U kunt bijvoorbeeld opgeven dat objecten tijdens de duur van een taak worden opgebouwd of afgebroken, of dat objecten aan het begin van een taak verschijnen of aan het einde van een taak verdwijnen. Vervolgens wijst u het betreffende IFC taak type toe aan elke taak. De IFC taak type weergave-instellingen worden toegepast op alle objecten in een IFC model die zijn geassocieerd aan taken waaraan het IFC taak type is toegewezen. </p>
                         <p class="ParagraphsInTables" xmlns="">Wanneer er zowel een IFC taak type als een IFC simulatie profiel is gespecificeerd voor een taak, worden de IFC simulatie profiel instellingen gebruikt tijdens de duur van de tijdlijn in plaats van de IFC taak type instellingen.</p>
                         <p class="ParagraphsInTables" xmlns="">&#160;</p>
-                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm">De wijze waarop tijdlijn simulaties draaien configureren</a>
+                        <p class="ParagraphsInTables" xmlns="">
+                            <a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm">De wijze waarop tijdlijn simulaties draaien configureren</a>
                         </p>
                     </td>
                 </tr>
@@ -58,7 +72,8 @@
                         <p class="ParagraphsInTables" xmlns="">Om IFC simulatie profielen te gebruiken om de weergave van objecten tijdens tijdlijn simulaties te bepalen, creëert u in de Bibliotheek Verkenner een bepaald aantal IFC simulatie profielen en specificeert u de weergave instellingen voor elke daarvan. U wijst vervolgens het benodigde IFC simulatie profiel toe aan elke taak. De IFC simulatie profiel weergave instellingen worden toegepast op alle objecten in een IFC model die geassocieerd zijn aan de taken waaraan het IFC simulatie profiel is toegewezen.</p>
                         <p class="ParagraphsInTables" xmlns="">Wanneer zowel een IFC taak type als een IFC simulatie profiel is gespecificeerd voor een taak, worden de IFC simulatie profiel instellingen gebruikt tijdens de duur van de tijdlijn in plaats van de IFC taak type instellingen.</p>
                         <p class="ParagraphsInTables" xmlns="">&#160;</p>
-                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm">De wijze waarop tijdlijn simulaties draaien configureren</a>
+                        <p class="ParagraphsInTables" xmlns="">
+                            <a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Timeline_simulations/Configure_timeline_simulations.htm">De wijze waarop tijdlijn simulaties draaien configureren</a>
                         </p>
                     </td>
                 </tr>
@@ -77,7 +92,8 @@
                         </ul>
                         <p class="ParagraphsInTables" xmlns="">Als u meer dan één actie aan dezelfde taak heeft gekoppeld, moet u ervoor zorgen dat de percentages die u voor elke actie invoert, in elkaar overvloeien en niet conflicteren of overlappen.</p>
                         <p class="ParagraphsInTables" xmlns="">&#160;</p>
-                        <p class="ParagraphsInTables" xmlns=""><a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Group_models/Site_objects_movement.htm">Animeren van site objects om hun bewegingen op de bouwplaats te weerspiegelen</a>
+                        <p class="ParagraphsInTables" xmlns="">
+                            <a href="https://help.elecosoft.com/powerproject_bim/dutch/16.0.02/Content/HTML Topics/Group_models/Site_objects_movement.htm">Animeren van site objects om hun bewegingen op de bouwplaats te weerspiegelen</a>
                         </p>
                     </td>
                 </tr>

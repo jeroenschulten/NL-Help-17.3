@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
     <body>
         <ol>
             <li>Klik op het <b>Standaard</b> keuzerondje.</li>
             <li>Klik op de <b>Wijzigen weergaven</b> knop. Het <b>Opmaak Taak weergaven</b> dialoogvenster verschijnt.</li>
-            <li class="p">Schakel het <b>Taakweergave gelijk aan hoofdresourcetoewijzing</b>selectievakje in.</li>
+            <li class="p">Schakel het <b>Taakweergave gelijk aan hoofdresource-toewijzing</b>selectievakje in.</li>
             <li class="p">Gebruik de kleuren en patronen velden op het dialoogvenster om de opmaak te specificeren van elke type taak (om toe te passen op alle taken die geen hoofdresource toegewezen hebben). </li>
             <li xmlns="">Klik op <b>OK</b> om terug te keren naar het <b>Opmaak Balkkaart</b> dialoogvenster.</li>
             <li>Klik op <b>Toepassen</b>.</li>

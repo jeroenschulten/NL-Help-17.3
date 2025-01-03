@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:id="HTML Topics\Conceptual\Working_with_resources\Modelling_resources\Effort_on_Allocation_modelled_permanent_resources.htm" MadCap:timeEstimate="0" MadCap:priority="0" class="KLAAR" xml:lang="nl-nl" MadCap:conditions="Powerproject_Easyplan.Powerproject_only">
-    <head><title></title>
+    <head>
+        <title>
+        </title>
     </head>
     <body>
         <h1>
@@ -8,7 +10,7 @@
         <p>Gebruik dit modelleringstype als u de hoeveelheid inspanning weet die is vereist om een taak te voltooien. U weet bijvoorbeeld dat een taak 10 mandagen vereist. U zou dan 1 bouwvakker 10 dagen kunnen laten werken of 2 bouwvakkers elk 5 dagen. Als u deze modelleringsmethode gebruikt, moet er vanuit kunnen gaan dat de schatting van de inspanning betrouwbaar is.</p>
         <ol>
             <li class="p">Selecteer Inspanning op Toewijzing in het <span style="font-weight: bold;">Modelleringstype</span> veld.</li>
-            <li class="p">Selecteer een <span style="font-weight: bold;">Te berekenen parameter</span> en een <span style="font-weight: bold;">Variabele parameter</span> in het groepsveld <span style="font-weight: bold;">Parameters</span>. De te berekenen parameter bevat informatie die u wilt laten berekenen. De variabele parameter bevat informatie die u automatisch wilt laten wijzigen als de taakduur in de balkkaart wordt gewijzigd. Als u de variabele parameter Geen selecteert, maakt u een gefixeerde resourcetoewijzing, die niet wordt gewijzigd als u de taakduur wijzigt.</li>
+            <li class="p">Selecteer een <span style="font-weight: bold;">Te berekenen parameter</span> en een <span style="font-weight: bold;">Variabele parameter</span> in het groepsveld <span style="font-weight: bold;">Parameters</span>. De te berekenen parameter bevat informatie die u wilt laten berekenen. De variabele parameter bevat informatie die u automatisch wilt laten wijzigen als de taakduur in de balkkaart wordt gewijzigd. Als u de variabele parameter Geen selecteert, maakt u een gefixeerde resource-toewijzing, die niet wordt gewijzigd als u de taakduur wijzigt.</li>
             <li class="p">Typ in het veld <span style="font-weight: bold;">Toewijzing</span> het aantal resources dat u wilt toewijzen.</li>
             <li class="p">Typ in het veld <span style="font-weight: bold;">Inspanning</span> de hoeveelheid inspanning die is vereist om de taak te voltooien.</li>
             <li class="p">Typ in het veld <span style="font-weight: bold;">Duur</span> de duur waarvoor de resource werkt.
@@ -17,31 +19,49 @@
         <p>Veronderstel dat u bijvoorbeeld vier schilders beschikbaar hebt voor werk aan een taak die een schilder 50 uur kost om te voltooien en u wilt weten hoe lang het duurt voor de taak is voltooid. U kunt dit bepalen met behulp van Inspanning op Toewijzing Resource Modellering:</p>
         <p>Maak een taak van 50 uur en wijs hieraan het resource Schilders toe. Gebruik van het tabblad <span style="font-weight: bold;">Toewijzing</span> van het dialoogvenster <b>Permanente Resource Eigenschappen</b>, configureert de toewijzingen als volgt:</p>
         <ul type="disc">
-            <li class="p"><span style="font-weight: bold;">Modellering type</span>: Inspanning op Toewijzing.</li>
-            <li class="p"><span style="font-weight: bold;">Berekende Parameter</span>: Duur.</li>
-            <li class="p"><span style="font-weight: bold;">Variabele Parameter</span>: Inspanning.</li>
-            <li class="p"><span style="font-weight: bold;">Toewijzing</span>: 4.</li>
+            <li class="p">
+                <span style="font-weight: bold;">Modellering type</span>: Inspanning op Toewijzing.</li>
+            <li class="p">
+                <span style="font-weight: bold;">Berekende Parameter</span>: Duur.</li>
+            <li class="p">
+                <span style="font-weight: bold;">Variabele Parameter</span>: Inspanning.</li>
+            <li class="p">
+                <span style="font-weight: bold;">Toewijzing</span>: 4.</li>
         </ul>
-        <p><MadCap:variable name="Primary.Asta Powerproject Name" /> berekent dat met 4 schilders toegewezen aan de taak, deze in 12 uur en 30 minuten voltooid is. Wanneer het aantal beschikbare schilders duidelijk verandert en u de toewijzing bewerkt, zal <MadCap:variable name="Primary.Asta Powerproject Name" /> automatisch de duur van de taak herberekenen.</p>
-        <p>Wanneer u vervolgens de taakduur verkort, wordt de resourcetoewijzing aangepast in overeenstemming met de geselecteerde variabele parameter:</p>
+        <p>
+            <MadCap:variable name="Primary.Asta Powerproject Name" /> berekent dat met 4 schilders toegewezen aan de taak, deze in 12 uur en 30 minuten voltooid is. Wanneer het aantal beschikbare schilders duidelijk verandert en u de toewijzing bewerkt, zal <MadCap:variable name="Primary.Asta Powerproject Name" /> automatisch de duur van de taak herberekenen.</p>
+        <p>Wanneer u vervolgens de taakduur verkort, wordt de resource-toewijzing aangepast in overeenstemming met de geselecteerde variabele parameter:</p>
         <ul>
             <li class="p">Wanneer Toewijzing is geselecteerd, wordt de toewijzing verkleind, aangezien de inspanning gelijk blijft maar er meer tijd beschikbaar is en er dus minder resources nodig zijn om dezelfde hoeveelheid inspanning te voltooien.</li>
             <li class="p">Wanneer Inspanning is geselecteerd, neemt de inspanning af, aangezien dezelfde hoeveelheid resources werken over een langere periode wat betekent dat de taak nu meer inspanning vraagt.</li>
         </ul>
         <p class="RelatedTopics">Verwante Onderwerpen<span style="font-weight: normal;">:</span></p>
-        <p><a href="Questions.htm">Vragen die u kunt beantwoorden door het modelleren van resources</a>
+        <p>
+            <a href="Questions.htm">Vragen die u kunt beantwoorden door het modelleren van resources</a>
         </p>
-        <p><span style="font-weight: normal;"><a href="Non_modelled_permanent_resources.htm">Niet gemodelleerde resources</a></span>
+        <p>
+            <span style="font-weight: normal;">
+                <a href="Non_modelled_permanent_resources.htm">Niet gemodelleerde resources</a>
+            </span>
         </p>
-        <p><span style="font-weight: normal;"><a href="Work_on_Allocation_perm_res.htm">Modelleringstype Werk Op Toewijzing voor resources</a></span>
+        <p>
+            <span style="font-weight: normal;">
+                <a href="Work_on_Allocation_perm_res.htm">Modelleringstype Werk Op Toewijzing voor resources</a>
+            </span>
         </p>
-        <p><span style="font-weight: normal;"><a href="Work_from_Task_perm_res.htm">Modelleringstype Werk Van Taak voor resources</a></span>
+        <p>
+            <span style="font-weight: normal;">
+                <a href="Work_from_Task_perm_res.htm">Modelleringstype Werk Van Taak voor resources</a>
+            </span>
         </p>
-        <p><a href="Effort_Activity_Budget_perm_res.htm">Modelleringstype Inspanning Taak Budget voor resources</a>
+        <p>
+            <a href="Effort_Activity_Budget_perm_res.htm">Modelleringstype Inspanning Taak Budget voor resources</a>
         </p>
-        <p><a href="Combining_EOA_and_EAB_allocations.htm">Toewijzingen Inspanning op toewijzing en Inspanning taak budget combineren</a>
+        <p>
+            <a href="Combining_EOA_and_EAB_allocations.htm">Toewijzingen Inspanning op toewijzing en Inspanning taak budget combineren</a>
         </p>
-        <p><a href="Share_effort.htm">Inspanning delen bij Inspanning op Toewijzing gemodelleerde resources</a>
+        <p>
+            <a href="Share_effort.htm">Inspanning delen bij Inspanning op Toewijzing gemodelleerde resources</a>
         </p>
     </body>
 </html>

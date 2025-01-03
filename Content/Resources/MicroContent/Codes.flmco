@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="False">
     <MicroContent id="how-do-you-can-i-assign-code-to-task">
         <MicroContentPhrase>hoe kan ik code toewijzen aan taak</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code toewijzen aan toewijzing</MicroContentPhrase>
@@ -10,7 +10,7 @@
         <MicroContentPhrase>hoe kan ik code toewijzen aan kostentoewijzing</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code toewijzen aan kostentoewijzing</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code toewijzen aan resource toewijzing</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik code toewijzen aan resourcetoewijzing</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik code toewijzen aan resource-toewijzing</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code toewijzen aan permanente resourcetoewijzing</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code toewijzen aan permanente resourcetoewijzing</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code toewijzen aan verbruikgoedtoewijzing</MicroContentPhrase>
@@ -23,8 +23,8 @@
         <MicroContentPhrase>hoe kan ik code naar een taak slepen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code naar een toewijzing slepen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code naar een kostentoewijzing slepen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik code naar een resourcetoewijzing slepen</MicroContentPhrase>
-        <MicroContentPhrase>hoe kan ik code naar een permanente resourcetoewijzing slepen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik code naar een resource-toewijzing slepen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik code naar een permanente resource-toewijzing slepen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik code naar een verbruikgoedtoewijzing slepen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik taak een kleurcode geven</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik kleurcode geven bar</MicroContentPhrase>
@@ -79,7 +79,7 @@
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Code_lib_display_project_view.htm#microcontent2" />
     </MicroContent>
     <MicroContent id="hoe-kan-ik-codes-maken">
-        <MicroContentPhrase>hoe kan ik codes maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik codes gebruiken</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik bibliotheken coderen</MicroContentPhrase>
         <MicroContentPhrase>wat is een code</MicroContentPhrase>
         <MicroContentPhrase>wat zijn codes</MicroContentPhrase>
@@ -94,5 +94,57 @@
         <MicroContentPhrase>hoe kan ik kan ik meerdere code uit de bibliotheek toewijzen</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik meer dan één code uit de bibliotheek toewijzen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Colour_coding_intro.htm#microcontent2" />
+    </MicroContent>
+    <MicroContent id="hoe-kan-u-ik-standaard-code-maken">
+        <MicroContentPhrase>hoe kan ik standaardcodes instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardcode instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardcode opgeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardcode toewijzen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardcode toewijzen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardcode toewijzen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardtaakcode instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardstreepjescode instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik standaardstreepjescode instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard taakcode instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard taakcode opgeven</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard bibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard codebibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard bibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard codebibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard codebibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard bibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard bibliotheek instellen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik de standaard codebibliotheek instellen</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Default_codes.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe-kan-ik-een-codebibliotheek-maken">
+        <MicroContentPhrase>hoe kan ik een codebibliotheek maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een codebibliotheek maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe codebibliotheek maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe codebibliotheek maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe codebibliotheek maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een codebibliotheekitem maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe codebibliotheekitem maken</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een code</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een codebibliotheek toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een codebibliotheekvermelding toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik een nieuwe code toevoegen</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Organising_your_code_libraries.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent id="hoe-kan-ik-codes-organiseren">
+        <MicroContentPhrase>hoe kan ik codes organiseren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik codebibliotheek organiseren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik codebibliotheekinvoer organiseren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik code structureren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik codebibliotheek structureren</MicroContentPhrase>
+        <MicroContentPhrase>hoe kan ik codebibliotheekinvoer structureren</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Codes/Organising_your_code_libraries.htm#microcontent2" />
     </MicroContent>
 </MicroContentSet>

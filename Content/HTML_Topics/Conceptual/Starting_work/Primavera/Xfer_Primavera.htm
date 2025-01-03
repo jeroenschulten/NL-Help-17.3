@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:id="HTML Topics\Conceptual\Starting_work\Primavera\Xfer_Primavera.htm" MadCap:timeEstimate="0" MadCap:priority="0" xml:lang="nl-nl" class="KLAAR">
     <head>
-        <link href="../../../../Resources/Stylesheets/Table_Stylesheet.css" rel="stylesheet" MadCap:stylesheetType="table" /><title></title>
+        <link href="../../../../Resources/Stylesheets/Table_Stylesheet.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <title>
+        </title>
     </head>
     <body>
         <h1>
@@ -18,7 +20,9 @@
             </MadCap:dropDownHead>
             <MadCap:dropDownBody>
                 <p>Let bij het exporteren van een <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> bestand naar een XML en XER bestandsformaat op de volgende punten.</p>
-                <h2><a name="Name_length"></a>Toegestane naamlengtes</h2>
+                <h2>
+                    <a name="Name_length">
+                    </a>Toegestane naamlengtes</h2>
                 <p>Het Primavera bestandsformaat dwingt restricties af op de lengte van de  namen die in projecten worden gebruikt. Het <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> bestandsformaat staat het gebruik van veel langere namen toe. Wanneer een project namen bevat die te lang zijn voor het Primavera-bestandsformaat, worden deze namen afgekapt tijdens het XML- of XER-exportproces, zodat u het project kunt openen in Primavera-software. Als naamsafkapping nodig is tijdens het exportproces, worden details hiervan geregistreerd in het exportlogbestand.</p>
                 <p>De onderstaande tabel laat zien welke namen mogelijk moeten worden afgekapt tijdens het exportproces en toont het aantal tekens dat is toegestaan voor elk type naam in het Primavera-bestandsformaat:</p>
                 <table style="margin-left: 0;margin-right: auto;mc-table-style: url('../../../../Resources/Stylesheets/Table_Stylesheet.css');" class="TableStyle-Table_Stylesheet" cellspacing="0">
@@ -132,7 +136,8 @@
                 <p>Waar in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> taken met verschillende kalenders gekoppeld zijn door een link waaraan wachttijd verbonden is, wordt de wachttijd aan het begin van de link bepaald door de kalender achter de voorganger taak en de wachttijd aan het eind van de link door de kalender achter de opvolger taak. Een algemene instelling in Primavera software geeft aan welke kalender toegepast wordt op deze positieve/negatieve wachttijd. Voordat een project geëxporteerd wordt is het nodig om te weten hoe deze algemene instelling is geconfigureerd, zodat de juiste kalender opgegeven kan worden bij het exporteren. Wanneer de verkeerde kalender geselecteerd wordt, zal het resultaat niet correct zijn.</p>
                 <p>In tegenstelling tot Primavera software ondersteunt <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> verstreken tijdseenheden bij links met positieve/negatieve wachttijd. Dit wordt omgezet in de correcte werktijd - rekening gehouden met de gekozen kalender - bij het exporteren.</p>
                 <p>Een positieve/negatieve wachttijd weergegeven als percentage wordt niet ondersteund door Primavera software; dit wordt bij het exporteren omgezet naar de overeenkomstige positieve/negatieve wachttijd in uren.</p>
-                <p><a href="../../Bar_chart_editing/Links_lead_lag/Exchange_other_programs.htm">Klik hier</a> voor meer informatie over hoe met positieve en negatieve wachttijd op links wordt omgegaan tijdens het exporteerproces.</p>
+                <p>
+                    <a href="../../Bar_chart_editing/Links_lead_lag/Exchange_other_programs.htm">Klik hier</a> voor meer informatie over hoe met positieve en negatieve wachttijd op links wordt omgegaan tijdens het exporteerproces.</p>
                 <h2>Links die starten of eindigen op samenvattingstaken</h2>
                 <p>Primavera software ondersteunt geen links die starten of eindigen op samenvattingstaken; <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> ondersteunt wel links die eindigen op de start van samenvattingstaken, en links die starten op het einde van samenvattingstaken.</p>
                 <p>Goed uitgedachte samenvattingsgroepen moeten een enkele 'start' taak bevatten met links die doorstromen tot aan een enkele 'eind' taak. Voor zulke samenvattingsgroepen, worden alle links die  starten of eindigen aan het begin van samenvattingstaken aangepast tijdens het exporteren zodat zij dan starten of eindigen bij de start van de 'start' taak binnen de samenvattingsgroep, en worden alle links die  starten aan het einde van samenvattingstaken zo aangepast dat zij dan starten bij het 'eind' taak binnen de samenvattingsgroep Dit wordt hieronder geïllustreerd:</p>
@@ -194,18 +199,28 @@
                     <thead>
                         <tr class="TableStyle-Table_Stylesheet-Head-Header1">
                             <th class="TableStyle-Table_Stylesheet-HeadE-Column1-Header1">
-                                <p style="margin-bottom: 0;"><span style="font-weight: bold;"><span style="color: #FFFFFF;"><MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /></span></span>
+                                <p style="margin-bottom: 0;">
+                                    <span style="font-weight: bold;">
+                                        <span style="color: #FFFFFF;">
+                                            <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" />
+                                            <MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />
+                                        </span>
+                                    </span>
                                 </p>
                             </th>
                             <th class="TableStyle-Table_Stylesheet-HeadD-Column1-Header1">
-                                <p style="margin-bottom: 0;"><span style="font-weight: bold;"><span style="color: #FFFFFF;">Primavera software</span></span>
+                                <p style="margin-bottom: 0;">
+                                    <span style="font-weight: bold;">
+                                        <span style="color: #FFFFFF;">Primavera software</span>
+                                    </span>
                                 </p>
                             </th>
                         </tr>
                     </thead>
                     <tr class="TableStyle-Table_Stylesheet-Body-Body1">
                         <td style="padding-left: 2px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;" bgcolor="#C0C0C0" class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1">
-                            <p style="margin-bottom: 0;"><span>Start mijlpaal</span>
+                            <p style="margin-bottom: 0;">
+                                <span>Start mijlpaal</span>
                             </p>
                         </td>
                         <td style="padding-left: 2px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;" bgcolor="#C0C0C0" class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">Start milestone</td>
@@ -218,7 +233,8 @@
                     </tr>
                     <tr class="TableStyle-Table_Stylesheet-Body-Body1">
                         <td style="padding-left: 2px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;" bgcolor="#C0C0C0" class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1">
-                            <p style="margin-bottom: 0;"><span>Geen resourcetoewijzing, of alle resourcetoewijzingen gebruiken de kalender van de taak</span>
+                            <p style="margin-bottom: 0;">
+                                <span>Geen resource-toewijzing, of alle resource-toewijzingen gebruiken de kalender van de taak</span>
                             </p>
                         </td>
                         <td style="padding-left: 2px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;" bgcolor="#C0C0C0" class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">Task 
@@ -233,7 +249,8 @@
                     </tr>
                     <tr class="TableStyle-Table_Stylesheet-Body-Body1" MadCap:conditions="Powerproject_Easyplan.Powerproject_only">
                         <td style="padding-left: 2px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;" bgcolor="#C0C0C0" class="TableStyle-Table_Stylesheet-BodyE-Column1-Body1">
-                            <p style="margin-bottom: 0;"><span>Hammock</span>
+                            <p style="margin-bottom: 0;">
+                                <span>Hammock</span>
                             </p>
                         </td>
                         <td style="padding-left: 2px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;" bgcolor="#C0C0C0" class="TableStyle-Table_Stylesheet-BodyD-Column1-Body1">Level of Effort 
@@ -241,7 +258,7 @@
                     </tr>
                 </table>
                 <p>&#160;</p>
-                <p MadCap:conditions="Powerproject_Easyplan.Powerproject_only">In <MadCap:variable name="Primary.Asta Powerproject Name" /> hebben resourcetoewijzingen een <span style="font-weight: bold;">Berekende parameter</span> veld dat weergeeft wat berekend wordt wanneer de duur, de inspanning of de toewijzing verandert. In Primavera software is er een <span style="font-weight: bold;">Duur type</span> veld bij iedere taak dat het berekeningstype bepaalt voor alle resourcetoewijzingen bij die taak. Bij het exporteren wordt dit veld afgeleid van de <span style="font-weight: bold;">Berekende parameter</span> van de eerste toewijzing bij iedere taak.</p>
+                <p MadCap:conditions="Powerproject_Easyplan.Powerproject_only">In <MadCap:variable name="Primary.Asta Powerproject Name" /> hebben resource-toewijzingen een <span style="font-weight: bold;">Berekende parameter</span> veld dat weergeeft wat berekend wordt wanneer de duur, de inspanning of de toewijzing verandert. In Primavera software is er een <span style="font-weight: bold;">Duur type</span> veld bij iedere taak dat het berekeningstype bepaalt voor alle resource-toewijzingen bij die taak. Bij het exporteren wordt dit veld afgeleid van de <span style="font-weight: bold;">Berekende parameter</span> van de eerste toewijzing bij iedere taak.</p>
                 <p>Het unieke taak ID in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> van iedere taak, wordt toegepast als zijnde het <span style="font-weight: bold;">Code</span> veld van de taak in Primavera software. Aangezien dit veld verplicht is in Primavera software maar optioneel in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />, wordt bij het exporteren automatisch een uniek taak ID voor alle taken die geen uniek taak ID hebben gecreëerd.</p>
                 <p>De naam van iedere taak wordt afgeleid uit de balk- en taaknamen in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />: als de balk- en taaknamen verschillend zijn in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> (en de taak naam is niet blanco), wordt de naam van de taak geëxporteerd als '&lt;balknaam&gt;.&lt;taaknaam&gt;'.</p>
                 <p>Primavera software ondersteunt geen verstreken tijd, dus taken die een verstreken tijdsduur hebben in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />, krijgen een ELAPSED_TIME kalender toegewezen in Primavera software, waarin werktijd 24 uur per dag en 7 dagen per week is.</p>
@@ -281,13 +298,15 @@
                 <h2>Resource toewijzingen</h2>
                 <p>
                     <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Easyplan_only">Voor projecten die hiervoor geopend zijn geweest in <MadCap:variable name="Primary.Asta Powerproject Name" />,als  </MadCap:conditionalText>
-                    <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Als </MadCap:conditionalText>ervoor gekozen wordt om resourcerollen te exporteren, wordt de rol ingesteld bij iedere geëxporteerde resourcetoewijzing. Als ervoor gekozen wordt om zowel aangevraagde toewijzingen als rollen te exporteren, worden deze geëxporteerd als toewijzingen van een rol in plaats van een resource. </p>
+                    <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Als </MadCap:conditionalText>ervoor gekozen wordt om resourcerollen te exporteren, wordt de rol ingesteld bij iedere geëxporteerde resource-toewijzing. Als ervoor gekozen wordt om zowel aangevraagde toewijzingen als rollen te exporteren, worden deze geëxporteerd als toewijzingen van een rol in plaats van een resource. </p>
                 <p>Primavera software ondersteunt geen op werk gebaseerde modelleringsinformatie, dus deze informatie gaat verloren bij het exporteren. Dit soort toewijzingen worden geëxporteerd als simpele op inspanning gebaseerde toewijzingen. <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Easyplan_only">Dit is alleen het geval bij projecten die hiervoor geopend zijn geweest in 
 	 <MadCap:variable name="Primary.Asta Powerproject Name" />, omdie resourcemodellering niet ondersteund wordt door <MadCap:variable name="Primary.Easyplan Name" />.</MadCap:conditionalText></p>
                 <h2>Budgeted costs</h2>
                 <p>Resources en kosten toewijzing informatie van het Budget bedrag veld in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> wordt geëxporteerd naar het Budgeted cost veld in de Primavera software.</p>
                 <h2>Negatieve kosten en  inkomsten</h2>
-                <p><MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> ondersteunt positieve en negatieve kosten, en positieve en negatieve inkomsten. Primavera ondersteunt positieve en negatieve kosten, maar kent het concept inkomsten niet. Alle positieve inkomsten en negatieve kosten in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> worden geëxporteerd als negatieve kosten. Alle negatieve inkomsten in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> worden geëxporteerd als positieve kosten.</p>
+                <p>
+                    <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" />
+                    <MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> ondersteunt positieve en negatieve kosten, en positieve en negatieve inkomsten. Primavera ondersteunt positieve en negatieve kosten, maar kent het concept inkomsten niet. Alle positieve inkomsten en negatieve kosten in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> worden geëxporteerd als negatieve kosten. Alle negatieve inkomsten in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> worden geëxporteerd als positieve kosten.</p>
                 <h2 MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Gebruikersvelden</h2>
                 <p MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Primavera software ondersteunt geen boolean gebruikersvelden, dus deze worden geëxporteerd als gebruikersvelden van het type tekststring welke een 'Y' of een 'N' bevatten. URL-type gebruikersvelden worden ook geëxporteerd als gebruikersvelden van het type tekststring.</p>
                 <p MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Primavera software ondersteunt geen duur gebruikersvelden, dus deze worden geëxporteerd als decimale getalsvelden en geconverteerd in het aantal uren dat wordt vertegenwoordigd door de duur.</p>
@@ -330,7 +349,7 @@ volgorde hiërarchie van kaarten en samenvattingsgroepen, creëert de exportrout
                 <h2>Resourcekosten</h2>
                 <p>Resourcekosten verbonden aan een gedefinieerde tijdsperiode worden ondersteund door Primavera software. Dit wordt niet ondersteund door <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />. <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Permanente resourcekosten worden geïmporteerd als kosten en inkomsten tarieven in <MadCap:variable name="Primary.Asta Powerproject Name" />; de naam van ieder tarief is afgeleid van haar hoeveelheid, bijvoorbeeld 'Ł20/uur'.</MadCap:conditionalText></p>
                 <h2>Resources</h2>
-                <p>'Arbeid' en 'Niet-arbeid' resources worden geïmporteerd als resources en materialen als verbruiksgoederen. De hulpmiddelrangorde van Primavera software wordt gerepliceerd in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> - met rollen, of vaardigheden, gebruikt om de permanente hulpmiddelrangorde te structureren. Een verschillende weergave wordt gegenereerd voor iedere resource. Het eerste kostentarief van de vijf kostentarieven wordt als standaard kosten voor de resource overgenomen. <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Easyplan_only">Merk op dat omdat <MadCap:variable name="Primary.Easyplan Name" /> alleen een platte lijst resources ondersteunt i.p.v. een hiërarchische structuur, alleen het onderste niveau van de 
+                <p>'Arbeid' en 'Niet-arbeid' resources worden geïmporteerd als resources en materialen als verbruiksgoederen. De resource-rangorde van Primavera software wordt gerepliceerd in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> - met rollen, of vaardigheden, gebruikt om de permanente resource-rangorde te structureren. Een verschillende weergave wordt gegenereerd voor iedere resource. Het eerste kostentarief van de vijf kostentarieven wordt als standaard kosten voor de resource overgenomen. <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Easyplan_only">Merk op dat omdat <MadCap:variable name="Primary.Easyplan Name" /> alleen een platte lijst resources ondersteunt i.p.v. een hiërarchische structuur, alleen het onderste niveau van de 
 	 hiërarchie bewerkbaar zal zijn wanneer u een project met een resourceshiërarchie in <MadCap:variable name="Primary.Easyplan Name" /> importeert.</MadCap:conditionalText></p>
                 <p>De inhoud van elk <b>Resource naam</b> veld van de resource in Primavera wordt geïmporteerd in het <b>Naam</b> veld van de resource in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />  en de inhoud van elk <b>Resource ID</b> veld van elke resource in de Primavera software wordt geïmporteerd in het <b>Korte enkelvoudige naam</b> veld van de resource in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" />.</p>
                 <h2 MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Resource curves</h2>
@@ -394,7 +413,9 @@ volgorde hiërarchie van kaarten en samenvattingsgroepen, creëert de exportrout
                     <li MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Totale kosten variantiepercentage.</li>
                 </ul>
                 <h2>Negatieve kosten en  inkomsten</h2>
-                <p><MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> ondersteunt positieve en negatieve kosten, en positieve en negatieve inkomsten. Primavera ondersteunt positieve en negatieve kosten, maar kent het concept inkomsten niet. </p>
+                <p>
+                    <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" />
+                    <MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> ondersteunt positieve en negatieve kosten, en positieve en negatieve inkomsten. Primavera ondersteunt positieve en negatieve kosten, maar kent het concept inkomsten niet. </p>
                 <h2>Gebruikersvelden</h2>
                 <p MadCap:conditions="Powerproject_Easyplan.Easyplan_only">Gebruikersvelden worden niet ondersteund in&#160;<MadCap:variable name="Primary.Easyplan Name" />.</p>
                 <p MadCap:conditions="Powerproject_Easyplan.Powerproject_only">gebruikersvelden worden gecreëerd volgens de volgende tabel:</p>
@@ -406,11 +427,18 @@ volgorde hiërarchie van kaarten en samenvattingsgroepen, creëert de exportrout
                     <thead>
                         <tr class="TableStyle-Table_Stylesheet-Head-Header1">
                             <th class="TableStyle-Table_Stylesheet-HeadE-Column1-Header1">
-                                <p style="margin-bottom: 0;"><span style="font-weight: bold;"><span style="color: #FFFFFF;">Primavera type</span></span>
+                                <p style="margin-bottom: 0;">
+                                    <span style="font-weight: bold;">
+                                        <span style="color: #FFFFFF;">Primavera type</span>
+                                    </span>
                                 </p>
                             </th>
                             <th class="TableStyle-Table_Stylesheet-HeadD-Column1-Header1">
-                                <p style="margin-bottom: 0;"><span style="font-weight: bold;"><span style="color: #FFFFFF;"><MadCap:variable name="Primary.Asta Powerproject Name" /> type</span></span>
+                                <p style="margin-bottom: 0;">
+                                    <span style="font-weight: bold;">
+                                        <span style="color: #FFFFFF;">
+                                            <MadCap:variable name="Primary.Asta Powerproject Name" /> type</span>
+                                    </span>
                                 </p>
                             </th>
                         </tr>
@@ -475,16 +503,18 @@ volgorde hiërarchie van kaarten en samenvattingsgroepen, creëert de exportrout
                 <h2>Taken</h2>
                 <p>Activiteiten in Primavera SureTrak zijn georganiseerd als een ingesprongen hiërarchie met een outline niveau. De activiteiten in de outline niveau heten 'topic' activiteiten.&#160;Deze hiërarchie wordt geïmporteerd in <MadCap:variable name="Primary.Asta Powerproject Name" MadCap:conditions="Powerproject_Easyplan.Powerproject_only" /><MadCap:variable name="Primary.Easyplan Name" MadCap:conditions="Powerproject_Easyplan.Easyplan_only" /> als een hiërarchie van samenvattingstaken.</p>
                 <p>Alle 'WBS'-type activiteiten in Primavera SureTrak worden <MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Powerproject_only">geïmporteerd als hammocks; de taken die zijn samengevat door 'WBS'-type activiteiten worden geïmporteerd als de hammock inhoud.</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Powerproject_Easyplan.Easyplan_only">niet geïmporteerd.</MadCap:conditionalText></p>
-                <p>Primavera SureTrak maakt onderscheid tussen  'Taken', 'Afspraken' en 'Onafhankelijke'-type activiteiten, die de manier controleren waarin meerdere resources op een activiteit worden gepland. Gedurende het importeerproces, wordt het <b>Gebruik taak kalender</b> veld ingeschakeld voor alle resourcetoewijzingen op 'Taak' of 'Afspraak'-type taken; daarnaast, verdwijnt het onderscheid tussen   'Taken', 'Afspraken' en 'Onafhankelijke'-type activiteiten tijdens het importeren.</p>
+                <p>Primavera SureTrak maakt onderscheid tussen  'Taken', 'Afspraken' en 'Onafhankelijke'-type activiteiten, die de manier controleren waarin meerdere resources op een activiteit worden gepland. Gedurende het importeerproces, wordt het <b>Gebruik taak kalender</b> veld ingeschakeld voor alle resource-toewijzingen op 'Taak' of 'Afspraak'-type taken; daarnaast, verdwijnt het onderscheid tussen   'Taken', 'Afspraken' en 'Onafhankelijke'-type activiteiten tijdens het importeren.</p>
                 <p>Activiteiten in Primavera SureTrak kunnen teksten eraan geassocieerd hebben, opgeslagen in tot tien <b>Log text</b> velden. Tijdens het importeerproces, worden deze  teksten binnen deze velden samengevoegd en opgeslagen in het <b>Opmerkingen</b> veld voor elke taak. Deze aan elkaar geplakte tekst komt overeen met het <b>Log record</b> veld in Primavera SureTrak.</p>
                 <h2 MadCap:conditions="Powerproject_Easyplan.Powerproject_only">Herberekening</h2>
                 <p MadCap:conditions="Powerproject_Easyplan.Powerproject_only">In Primavera SureTrak kunnen  activiteiten zonder opvolger (ook bekend als  'open einden') zijn gedefinieerd als kritiek of niet-kritiek. In <MadCap:variable name="Primary.Asta Powerproject Name" /> zijn taken zonder opvolger zijn altijd  niet-kritiek. De resultaten van herberekening in&#160;<MadCap:variable name="Primary.Asta Powerproject Name" /> zullen hetzelfde zijn als in Primavera SureTrak, mits u Primavera SureTrak configureert om 'open einden' te behandelen als niet-kritiek.</p>
             </MadCap:dropDownBody>
         </MadCap:dropDown>
         <p class="RelatedTopics">Verwante onderwerpen:</p>
-        <p><a href="Primavera_exporting.htm">Exporteren van projecten naar Primavera software</a>
+        <p>
+            <a href="Primavera_exporting.htm">Exporteren van projecten naar Primavera software</a>
         </p>
-        <p><a href="Primavera_importing.htm">Importeren van  projecten vanuit Primavera software</a>
+        <p>
+            <a href="Primavera_importing.htm">Importeren van  projecten vanuit Primavera software</a>
         </p>
     </body>
 </html>

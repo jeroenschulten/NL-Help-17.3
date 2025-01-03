@@ -157,15 +157,6 @@
         <MicroContentPhrase>hoe kan ik OLE-notitie verplaatsen</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Moving_annotations/Moving_annotations.htm#microcontent1" />
     </MicroContent>
-    <MicroContent id="hoe-kan-ik-notitie-verplaatsen">
-        <MicroContentPhrase>hoe kan ik OLE notitie</MicroContentPhrase>
-        <MicroContentPhrase>wat is OLE-notitie</MicroContentPhrase>
-        <MicroContentPhrase>OLE-notitie</MicroContentPhrase>
-        <MicroContentPhrase>OLE-notitie-introductie</MicroContentPhrase>
-        <MicroContentPhrase>OLE-notitie-definitie</MicroContentPhrase>
-        <MicroContentPhrase>OLE-notitie-beschrijving</MicroContentPhrase>
-        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/OLE_annotations/Creating_OLE_annotations.htm#microcontent1" />
-    </MicroContent>
     <MicroContent id="hoe-kan-ik-ole-notitie-maken">
         <MicroContentPhrase>hoe kan ik OLE maken notitie</MicroContentPhrase>
         <MicroContentPhrase>hoe kan ik een nieuwe OLE-notitie maken</MicroContentPhrase>
@@ -340,5 +331,9 @@
         <MicroContentPhrase>Wat zijn tekstnotities?</MicroContentPhrase>
         <MicroContentPhrase>Hoe kan ik tekstnotities maken</MicroContentPhrase>
         <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/Text_annotations/Tokens_annotations.htm" />
+    </MicroContent>
+    <MicroContent id="welke-ole-notities-kan-ik-maken">
+        <MicroContentPhrase>welke OLE notities kan ik maken</MicroContentPhrase>
+        <MicroContentResponse href="../../HTML_Topics/Conceptual/Annotations/OLE_annotations/Creating_OLE_annotations.htm#microcontent2" />
     </MicroContent>
 </MicroContentSet>
